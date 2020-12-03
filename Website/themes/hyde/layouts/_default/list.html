@@ -1,0 +1,12 @@
+{{ define "main" -}}
+<ul class="posts">
+
+  <h1>{{ .Title }}</h1>
+  
+  <!-- Following partial might used variables "cascaded" from _index.md -->
+  {{ partial "front-matter-toc.html" . }} 
+  
+  {{ .Content }}
+
+</ul>
+{{- end }}

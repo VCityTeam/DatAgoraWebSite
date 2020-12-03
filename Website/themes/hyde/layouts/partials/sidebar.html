@@ -1,0 +1,46 @@
+<aside class="sidebar">
+  <!-- Removed sticky mode for the content to flow from top to bottom -->
+  <div class="container">
+    <div class="sidebar-about">
+      <a href="https://www.grandlyon.com/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Logo_Grand_Lyon.svg/1280px-Logo_Grand_Lyon.svg.png" alt="">
+      </a>
+      <a href="https://www.universite-lyon.fr/">
+        <img src="https://upload.wikimedia.org/wikipedia/fr/7/77/Logo_Universit%C3%A9_de_Lyon.png" alt="">
+      </a>
+      <a href="{{ .Site.BaseURL }}"><h1>{{ .Site.Title }}</h1></a>
+    </div>
+
+    <nav>
+      <ul class="sidebar-nav">
+
+        <li><a href="{{.Site.BaseURL}}/principle">Principles</a> </li>
+
+        <li><a href="{{.Site.BaseURL}}/fieldofstudies">Field of studies</li>
+        <ul style="list-style:none;padding-left:1rem;font-size:15px">
+        <!-- List items defined in the configuration file ! -->
+        {{ range .Site.Menus.fieldofstudies -}}
+          <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+        {{- end }}
+        </ul>
+
+        <li><a href="{{.Site.BaseURL}}/proposal">Our proposal</a></li>
+        <ul style="list-style:none;padding-left:1rem;font-size:15px">
+          <!-- List items defined in the configuration file ! -->
+          {{ range .Site.Menus.proposal -}}
+          <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+          {{- end }}
+        </ul>
+
+        <li><a href="{{.Site.BaseURL}}/about">About us</a> </li>
+
+        <li><a href="{{.Site.BaseURL}}/partner">Partners</a> </li>
+
+        <li><a href="{{.Site.BaseURL}}/contact">Contact</a> </li>
+
+        <li><a href="{{.Site.BaseURL}}/postes">Open positions</a> </li>
+
+      </ul>
+    </nav>
+  </div>
+</aside>

@@ -1,0 +1,39 @@
+# We use the toml format for the configuration because placing comments
+# in yaml is not easy (not to mention it's possible hugo side-effects).
+# section is not taken into account when defined in the yaml config file...
+
+baseURL = "./"
+languageCode = "en-us"
+title = "DatAgora"
+
+# For images to be found in content/
+canonifyURLs = true
+theme = "hyde"
+
+[Menus]
+  # The 80 columns coding style cannot be enforced otherwise hugo
+  # triggers a "newlines not allowed within inline tables" error
+    fieldofstudies = [
+    { Name = "Game, mediation and public space", URL = "/fieldofstudies/gmps", weight=2},
+    { Name = "Analysis of urban mobility flows", URL = "/fieldofstudies/analysisofurbanmobilityflows", weight=3},
+    { Name = "Search in a documentary corpora", URL = "/fieldofstudies/searchindocumentarycorpora", weight=4},
+    { Name = "Representation of physical phénomenon", URL = "/fieldofstudies/representationofphysicalphenomenon", weight=5},
+    { Name = "Observations of the exchanges",    URL = "/fieldofstudies/observationsoftheexchanges", weight=6}
+
+  ]
+
+
+  proposal = [
+    { Name = "Our project", URL = "/proposal/Our project", weight=2},
+    { Name = "Proposed stations", URL = "/proposal/Proposed stations", weight=3},
+    { Name = "Our methodology",    URL = "/proposal/Our methodology", weight=4}
+
+  ]
+
+
+
+
+# Notes: it seems that the now default markdown handler (goldmark) can NOT be
+# configured to avoid the rendering of a plain ASCII single quote (in the
+# Markdown source file) as a "&rsquo;" in the genereted website. Refer to
+# https://iwalt.com/blog/2019/12/hugo-goldmark-and-smartypants/

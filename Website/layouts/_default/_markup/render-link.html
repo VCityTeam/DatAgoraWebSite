@@ -1,0 +1,4 @@
+<!-- Createing a render-link.html with the following content -->
+<!-- is a trick described by this post                       -->
+<!-- https://agrimprasad.com/post/hugo-goldmark-markdown/    -->
+<a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank"{{ end }}>{{ .Text }}</a>

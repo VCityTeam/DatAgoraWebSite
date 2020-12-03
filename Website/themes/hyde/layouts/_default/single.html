@@ -1,0 +1,35 @@
+{{ define "main" -}}
+<div class="post">
+
+  <!-- This anchor is used for lengthy pages to offer navigation  -->
+  <!-- back to the top of the page. Refer, for example, to        -->
+  <!-- content/research/publications.md                           -->
+  <a name="AnchorTop"></a>
+  <h1>{{ .Title }}</h1>
+
+  {{ if (.Params.toc)}}
+  <!-- Reference: https://gohugo.io/content-management/toc/        -->
+  <!-- FIXME: The following style related information belongs into -->
+  <!-- the css as opposed to inside the html                       -->
+  <div style="margin:-1.556em -2em .5em 1.4em; float:right; 
+             width: 16em; border-left: 1px;">
+    <aside>
+    {{ .TableOfContents }}
+    </aside>
+  </div>
+  {{ end }}
+
+  <!-- Following partial might used variables "cascaded" from _index.md -->
+  {{ partial "front-matter-toc.html" . }} 
+
+  <!-- Date is only displayed when the corresponding front matter -->
+  <!-- variable "date" is defined (has some value).               -->
+  {{ if (.Params.Date)}}
+  <time datetime={{ .Date.Format "2006-01-02T15:04:05Z0700" }} class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
+  {{ end }}
+
+  {{ .Content }}
+
+</div>
+
+{{- end }}

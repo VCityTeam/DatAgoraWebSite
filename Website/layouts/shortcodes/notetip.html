@@ -1,0 +1,25 @@
+<!-- Notetip (as imported from LIRIS's DokuWiki)  -->
+<!-- i.e. an hilighted zone with an "idea"/tip -->
+
+<div style="
+  background-color: rgb(230, 230, 230);
+  background-image: url({{.Site.BaseURL}}/notetip.png);
+  margin: 2em;
+  margin-right: 1em;
+  margin-left: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95% !important;
+  min-height: 40px;
+  clear: both;
+  text-align: justify;
+  vertical-align: middle;
+  border-collapse: collapse;
+  padding: 15px 20px 15px 80px;
+  background-position: 20px 50%;
+  background-repeat: no-repeat;
+  -moz-border-radius: 20px;
+  -khtml-border-radius: 20px;
+  border-radius: 20px;">
+  {{ .Get "text" }}
+</div>

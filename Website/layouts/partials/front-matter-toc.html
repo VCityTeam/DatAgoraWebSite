@@ -1,0 +1,27 @@
+<!-- When a manual Table Of Content is provided in the page front -->
+<!-- matter then display it on the top right of the page          -->
+{{ if not (isset .Params "manualtocnodisplay") }}
+  {{ if isset .Params "manualtoc" }}
+    {{ with .Params.manualTocSkipVSpace }}
+      <!-- When required in the current page (as opposed to when the  -->
+      <!-- manualtoc is defined in the _index.md), skip some vertical -->
+      <!-- space in order to accomodate for a wide page title.        -->
+      <br> 
+    {{ end }}
+  {{ end }}
+  {{ with .Params.manualtoc }}
+    <div style="margin:-1.556em -2em .5em 1.4em; float:right;
+                width: 16em; border-left: 1px;">
+      <aside>
+        {{ with .title }}
+        <b>{{ . }}</b>
+        {{ end }}
+        <ul>
+        {{ range .entries }}
+        <li> <a href="{{ .LinkName }}">{{ .PageName }}</a> </li>
+        {{- end }}
+        <ul>
+      </aside>
+    </div>
+  {{ end }}
+{{ end }}
