@@ -11,7 +11,7 @@ addons:
       - wget
 
 before_install:
-  - openssl aes-256-cbc -K $encrypted_bfa1e038770a_key -iv $encrypted_bfa1e038770a_iv -in id_rsa.vcity_connect.enc -out id_rsa.vcity_connect -d
+  - openssl aes-256-cbc -K $encrypted_bfa1e038770a_key -iv $encrypted_bfa1e038770a_iv -in .ssh/id_rsa.vcity_connect.enc -out id_rsa.vcity_connect -d
   - ls -al .ssh/id_rsa.vcity_rict
   - wc .ssh/id_rsa.vcity_rict
 
