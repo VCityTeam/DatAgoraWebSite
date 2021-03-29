@@ -12,7 +12,7 @@ addons:
       - openssl
 
 before_install:
-  - openssl aes-256-cbc -K $encrypted_42dea8aa4195_key -iv $encrypted_42dea8aa4195_iv -in .ssh/id_rsa.vcity_rict.enc -out id_rsa.vcity_rict -d
+  - openssl aes-256-cbc -K $encrypted_42dea8aa4195_key -iv $encrypted_42dea8aa4195_iv -in id_rsa.vcity_rict.enc -out ../id_rsa.vcity_rict -d
   - ls -al .ssh/id_rsa.vcity_rict
   - wc .ssh/id_rsa.vcity_rict
 
