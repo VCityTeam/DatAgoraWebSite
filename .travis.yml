@@ -34,11 +34,7 @@ before_script:
   - hugo version
 
 script:
-  - cd LirisProjet/scripts
-  - pip3 install -r requirements.txt
-  - python3 pub-generator.py
-  - cp publications.md ../content/research
-  - cd $TRAVIS_BUILD_DIR/LirisProjet
+  - cd Website
   - hugo
   - which bash
 
