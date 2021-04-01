@@ -13,8 +13,8 @@ addons:
 
 before_install:
   - openssl aes-256-cbc -K $encrypted_af65e16f4620_key -iv $encrypted_af65e16f4620_iv -in id_rsa.vcity_rict.enc -out id_rsa.vcity_rict -d
-  - ls -al /.ssh/id_rsa.vcity_rict
-  - wc /.ssh/id_rsa.vcity_rict
+  - ls -al ~/.ssh/id_rsa.vcity_rict
+  - wc ~/.ssh/id_rsa.vcity_rict
 
 before_script:
   # Requiring a [d|r]ecent version of Hugo
