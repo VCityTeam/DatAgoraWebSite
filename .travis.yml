@@ -36,7 +36,7 @@ before_script:
 script:
   - cd Website
   - hugo
-  - bash $TRAVIS_BUILD_DIR/.travis.deploy.sh
+  - ssh -i $TRAVIS_BUILD_DIR/id_rsa.vcity_rict connect.liris.cnrs.fr ls /home-projets/vcity/public_html
 
 deploy:
   - provider: script
