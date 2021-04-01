@@ -36,7 +36,7 @@ before_script:
 script:
   - cd Website
   - hugo
-  - which bash
+  - bash $TRAVIS_BUILD_DIR/.travis.deploy.sh
 
 deploy:
   - provider: script
