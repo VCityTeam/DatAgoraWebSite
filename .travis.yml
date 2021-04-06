@@ -13,13 +13,10 @@ addons:
 
 before_install:
   - pwd
-  - ls -al
   - ls -al .ssh/
-  - openssl aes-256-cbc -K $encrypted_af65e16f4620_key -iv $encrypted_af65e16f4620_iv -in id_rsa.vcity_rict.enc -out id_rsa.vcity_rict -d
+  - openssl aes-256-cbc -K $encrypted_af65e16f4620_key -iv $encrypted_af65e16f4620_iv -in .ssh/id_rsa.vcity_rict.enc -out .ssh/id_rsa.vcity_rict -d
+  - chmod go-rwx .ssh/id_rsa.vcity_rict
   - ls -al .ssh
-  - ls -al
-  - chmod go-rwx id_rsa.vcity_rict
-  - wc id_rsa.vcity_rict
 
 before_script:
   # Requiring a [d|r]ecent version of Hugo
@@ -37,7 +34,7 @@ before_script:
 script:
   - cd Website
   - hugo
-  - ssh -v -oStrictHostKeyChecking=no -i $TRAVIS_BUILD_DIR/id_rsa.vcity_rict eboix@connect.liris.cnrs.fr ls /home-projets/vcity/public_html
+  - scp -r -oStrictHostKeyChecking=no -i $TRAVIS_BUILD_DIR/.ssh/id_rsa.vcity_rict public/ eboix@connect.liris.cnrs.fr:/home-projets/vcity/public_html/DatAgora
 
 deploy:
   - provider: script
