@@ -39,7 +39,7 @@ script:
   # substituted (by the shell)
   - sed --in-place -e "s|^baseURL\(.*\)|baseURL=\"$TARGET_URL\"|" config.toml
   - hugo
-  - bash $TRAVIS_BUILD_DIR/.travis.deploy.sh
+  - bash $TRAVIS_BUILD_DIR/.travis-deploy.sh
   # Make sure not to leave previously uploaded content by wiping out all 
   # previous uploaded content:
   # - ssh -oStrictHostKeyChecking=no -i $TRAVIS_BUILD_DIR/.ssh/id_rsa.vcity_rict eboix@connect.liris.cnrs.fr rm -fr /home-projets/vcity/public_html/DatAgora
@@ -47,7 +47,7 @@ script:
 
 deploy:
   - provider: script
-    script: bash $TRAVIS_BUILD_DIR/.travis.deploy.sh
+    script: bash $TRAVIS_BUILD_DIR/.travis-deploy.sh
     skip_cleanup: true
     on:
       branch: master
