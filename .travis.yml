@@ -42,7 +42,7 @@ script:
 
 deploy:
   - provider: script
-    script: if [ "$TRAVIS_BRANCH" = "main" ]; then bash $TRAVIS_BUILD_DIR/.travis-deploy.sh; fi
+    script: bash $TRAVIS_BUILD_DIR/.travis-deploy.sh
     skip_cleanup: true
     on:
       branch: master
