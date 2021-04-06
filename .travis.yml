@@ -3,6 +3,9 @@ os:
 
 dist: focal
 
+env:
+  TARGET_URL="https://projet.liris.cnrs.fr/vcity/"
+
 addons:
   apt:
     packages:
@@ -29,6 +32,13 @@ before_script:
   #- sudo dpkg -i hugo_0.58.2_Linux-64bit.deb
   - wget https://github.com/gohugoio/hugo/releases/download/v0.74.3/hugo_0.74.3_Linux-64bit.deb
   - sudo dpkg -i hugo_0.74.3_Linux-64bit.deb
+  # Because the Hugo's baseURL controls the target site embedding it must
+  # be properly configured at build stage. Notice that the following sed 
+  # expression uses the pipe symbol (|) as delimiter (instead of the usual
+  # slash character / ) because the TARGET_DIR variable itself holds slash
+  # characters (/) that would interfere with the sed expression once
+  # substituted (by the shell)
+  - sed --in-place -e "s|^baseURL\(.*\)|baseURL=\"$TARGET_URL\"|" config.toml
   - hugo version
 
 script:
