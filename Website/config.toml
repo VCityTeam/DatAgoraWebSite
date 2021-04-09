@@ -10,10 +10,15 @@ title = "DatAgora"
 canonifyURLs = true
 theme = "hyde"
 
+# see https://discourse.gohugo.io/t/raw-html-getting-omitted-in-0-60-0/22032
+# and https://gohugo.io/getting-started/configuration-markup
+#[markup.goldmark.renderer]
+#unsafe = true
+
 [Menus]
   # The 80 columns coding style cannot be enforced otherwise hugo
   # triggers a "newlines not allowed within inline tables" error
-    fieldofstudies = [
+  fieldofstudies = [
     { Name = "Game, mediation and public space", URL = "/fieldofstudies/gmps", weight=2},
     { Name = "Analysis of urban mobility flows", URL = "/fieldofstudies/analysisofurbanmobilityflows", weight=3},
     { Name = "Search in a documentary corpora", URL = "/fieldofstudies/searchindocumentarycorpora", weight=4},
@@ -21,7 +26,6 @@ theme = "hyde"
     { Name = "Observations of the exchanges",    URL = "/fieldofstudies/observationsoftheexchanges", weight=6}
 
   ]
-
 
   proposal = [
     { Name = "Our project", URL = "/proposal/Our project", weight=2},
