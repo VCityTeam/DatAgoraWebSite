@@ -2,18 +2,28 @@
 # in yaml is not easy (not to mention it's possible hugo side-effects).
 # section is not taken into account when defined in the yaml config file...
 
-baseURL = "./"
+baseURL = "."
 languageCode = "en-us"
 title = "DatAgora"
 
 # For images to be found in content/
 canonifyURLs = true
+#relativeURLs = "true"
+#uglyURLs = "true"
 theme = "hyde"
 
 # see https://discourse.gohugo.io/t/raw-html-getting-omitted-in-0-60-0/22032
 # and https://gohugo.io/getting-started/configuration-markup
 #[markup.goldmark.renderer]
 #unsafe = true
+
+defaultContentLanguage = "en"
+[languages]
+  [languages.en]
+    weight = 1
+  [languages.fr]
+    languageCode = "fr"
+    weight = 2
 
 [Menus]
   # The 80 columns coding style cannot be enforced otherwise hugo
