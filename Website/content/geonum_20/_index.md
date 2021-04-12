@@ -1,5 +1,7 @@
 ### Bienvenue dans le Wiki du projet DatAgora des étudiants du Master Géonum !
 
+![](images/partdieu.png)
+![](partdieu.png)
 
 Ce Wiki est le fruit d'une collaboration entre d'une part, 4 étudiants du Master Géographies Numériques, et d'autre part, les membres du projet DatAgora.
 
