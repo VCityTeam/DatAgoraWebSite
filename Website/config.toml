@@ -30,34 +30,36 @@ sectionPagesMenu = "main"
     title = "DatAgora FR"
     languageName = "Français"
     #languageCode = "fr-fr"
+    contentDir = "content/fr"
     weight = 2
 
 [Menus]
   main = [
     { Name = "Principles", URL = "principles", weight=1},
-    { Name = "About us", URL = "about", weight=97},
-    { Name = "Partners", URL = "partners", weight=98},
-    { Name = "Contact", URL = "contact", weight=99},
-    { Name = "Open positions", URL = "positions", weight=100},
+    { Name = "Data & XP", URL = "dataxp", weight=2},
+    { Name = "Data & Components", URL = "datacomponents", weight=3},
+    { Name = "Data & Agora", URL = "dataagora", weight=4},
 
-    { Identifier = "proposals", Name = "Our proposals", URL = "proposals", weight=101},
+    { Identifier = "fos", Name = "Field of studies", URL = "fieldofstudies", weight=10},
+    { Parent = "fos", Name = "Game, mediation and public space", URL = "/fieldofstudies/gmps", weight=1},
+    { Parent = "fos", Name = "Analysis of urban mobility flows", URL = "/fieldofstudies/analysisofurbanmobilityflows", weight=2},
+    { Parent = "fos", Name = "Search in a documentary corpora", URL = "/fieldofstudies/searchindocumentarycorpora", weight=3},
+    { Parent = "fos", Name = "Representation of physical phénomenon", URL = "/fieldofstudies/representationofphysicalphenomenon", weight=4},
+    { Parent = "fos", Name = "Observations of the exchanges", URL = "/fieldofstudies/observationsoftheexchanges", weight=5},
+    
+    { Identifier = "proposals", Name = "Our proposals", URL = "proposals", weight=20},
     { Parent = "proposals", Name = "Our projects", URL = "proposals/projects", weight=1},
     { Parent = "proposals", Name = "Proposed stations", URL = "proposals/stations", weight=2},
     { Parent = "proposals", Name = "Our methodology",    URL = "proposals/methodology", weight=3},
 
-    { Name = "Geonum 2020", Identifier = "geonum_20", URL = "fr/geonum_20", weight = 1000},
-    { Name = "Végétaliser urbain", Identifier = "geonum_20_vegurban", Parent = "geonum_20", URL = "fr/geonum_20/vegetaliser_urbain", weight = 1001}
-  ]
-  # The 80 columns coding style cannot be enforced otherwise hugo
-  # triggers a "newlines not allowed within inline tables" error
-  fieldofstudies = [
-    { Name = "Game, mediation and public space", URL = "/fieldofstudies/gmps", weight=2},
-    { Name = "Analysis of urban mobility flows", URL = "/fieldofstudies/analysisofurbanmobilityflows", weight=3},
-    { Name = "Search in a documentary corpora", URL = "/fieldofstudies/searchindocumentarycorpora", weight=4},
-    { Name = "Representation of physical phénomenon", URL = "/fieldofstudies/representationofphysicalphenomenon", weight=5},
-    { Name = "Observations of the exchanges",    URL = "/fieldofstudies/observationsoftheexchanges", weight=6}
-  ]
+    { Name = "About us", URL = "about", weight=30},
+    { Name = "Partners", URL = "partners", weight=31},
+    { Name = "Contact", URL = "contact", weight=32},
+    { Name = "Open positions", URL = "positions", weight=33},
 
+    { Name = "Geonum 2020", Identifier = "geonum_20", URL = "fr/geonum_20", weight=1000},
+    { Name = "Végétaliser urbain", Identifier = "geonum_20_vegurban", Parent = "geonum_20", URL = "fr/geonum_20/vegetaliser_urbain", weight=1}
+  ]
 
 
 
