@@ -10,9 +10,9 @@ Notre problème est de savoir où planter ces arbres pour qu'ils soient les plus
 Un ensemble de projets a été instruit en ce sens.
 
 - Outils de médiations pour la végétalisation d'un quartier : Projet mené par l'Equipe DatAgora en relation avec la métropole de Lyon et l'Agence d'Urbanisme de Lyon. 
-- Lien vers le [Projet Geonum](Projet_Geonum_20) : Projet d’étudiants du Master Géonum de l’UDL qui a pour objectif, à partir de couches de données urbaines, de fournir de nouvelles couches de données qui permettent de faire ressortir les points les plus importants que l’on souhaite mettre en évidence, mais également de produire de nouvelles valeurs statistiques.
+- Lien vers le [Projet Geonum](geonum_20/projet_geonum_20.html) : Projet d’étudiants du Master Géonum de l’UDL qui a pour objectif, à partir de couches de données urbaines, de fournir de nouvelles couches de données qui permettent de faire ressortir les points les plus importants que l’on souhaite mettre en évidence, mais également de produire de nouvelles valeurs statistiques.
 
-- Lien vers le [Projet LabXP](Projet_LabXP_20) : Il s'agit d'un projet de création de jeu vidéo réalisé par des étudiants de GAMAGORA. Il s'agit d'un prototype de jeu de gestion qui à pour but de gérer la végétation dans un environnement urbain. Il vise à montrer au joueur la complexité qu'il y a à gérer l'implantation et la maintenance des zones vertes en ville, en tenant compte de plusieurs paramètres environnementaux.  
+- Lien vers le [Projet LabXP](labxp_20/projet_labxp_20.html) : Il s'agit d'un projet de création de jeu vidéo réalisé par des étudiants de GAMAGORA. Il s'agit d'un prototype de jeu de gestion qui à pour but de gérer la végétation dans un environnement urbain. Il vise à montrer au joueur la complexité qu'il y a à gérer l'implantation et la maintenance des zones vertes en ville, en tenant compte de plusieurs paramètres environnementaux.  
 
 - Lien vers le projet ECL (Dashboard) : Ce projet réalisé par des étudiants de l'Ecole Centrale de Lyon permet la récupération de données en ligne ainsi que leur traitement afin de calculer différents indicateurs statistiques. Il permet de restituer ces informations sous la forme d'un tableau de bord modulable, qui peut comporter des éléments graphiques en plus de l'affichage de données brutes.
 
@@ -20,7 +20,7 @@ Un ensemble de projets a été instruit en ce sens.
 
 - Lien vers la semaine de l'anthropocène 2021 : La semaine de l'anthropocène est un évènement organisé depuis deux ans par l’École urbaine de Lyon, qui rassemble des participants aux profils très divers autour de différentes activités (tables rondes, ateliers, expositions,...) qui traitent de l'impact de l'homme sur son environnement.
 
-- Lien vers le [projet ECN VegetaLyon](VegetaLyon)
+- Lien vers le [projet ECN VegetaLyon](vegetalyon/vegetalyon.html)
 
 ### Développement de composants
 - Lien vers le projet POM 1 : Ces trois projets son réalisés par des étudiants de l'Université Lyon 1. Ces trois projets ont pour but de fournir des briques logicielles répondant chacune à un besoin précis. La première doit permettre de parser des données GML pour obtenir un modèle 3D.

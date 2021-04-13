@@ -40,10 +40,10 @@ En mettant en commun les besoins et l'ingénierie associés, la Datagora se posi
 
 
 
-Sur le projet DatAgora, nous contribuons à la thématique [Jeu, Médiation et espace public](Game-mediation-and-public-space) qui s'articule autour du projet  [MAM](https://imu.universite-lyon.fr/animation-scientifique/animation-scientifique/projet-mam-maquette-augmentee-pour-la-mediation/) (Médiation et Maquette Augmentée). 
+Sur le projet DatAgora, nous contribuons à la thématique [Jeu, Médiation et espace public](/game-mediation-and-public-space.html) qui s'articule autour du projet  [MAM](https://imu.universite-lyon.fr/animation-scientifique/animation-scientifique/projet-mam-maquette-augmentee-pour-la-mediation/) (Médiation et Maquette Augmentée). 
 
 
-Notre sujet d'étude est celui de [La place de la végétation dans la ville](Vegetalization-Project) au sein du quartier Part-Dieu, qui est l'un des quartiers les plus importants de Lyon. Notre objectif est d'étudier les données relatives à la revégétalisation de la ville afin de sensibiliser les élus et les citoyens à la place de l'arbre en ville qui permet de lutter contre les îlots de chaleur urbain.
+Notre sujet d'étude est celui de [La place de la végétation dans la ville](/vegetalization-project.html) au sein du quartier Part-Dieu, qui est l'un des quartiers les plus importants de Lyon. Notre objectif est d'étudier les données relatives à la revégétalisation de la ville afin de sensibiliser les élus et les citoyens à la place de l'arbre en ville qui permet de lutter contre les îlots de chaleur urbain.
 
 
 

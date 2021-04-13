@@ -44,9 +44,9 @@ sectionPagesMenu = "main"
     { Parent = "fos", Name = "Game, mediation and public space", URL = "/Game-mediation-and-public-space.html", weight=1},
     { Parent = "fos", Name = "Analysis of urban mobility flows", URL = "/Analysis-of-urban-mobility-flows.html", weight=2},
     { Parent = "fos", Name = "Search in a documentary corpora", URL = "/Search-in-documentary-corpora.html", weight=3},
-   { Parent = "fos", Name = "Observations of the exchanges", URL = "/Observations-of-the-exchanges.html", weight=4},
+    { Parent = "fos", Name = "Observations of the exchanges", URL = "/Observations-of-the-exchanges.html", weight=4},
     
-    { Identifier = "proposals", Name = "Our proposals", URL = "/Proposals.html", weight=20},
+    { Identifier = "proposals", Name = "Our proposals", URL = "/Our-proposals.html", weight=20},
     { Parent = "proposals", Name = "Our projects", URL = "/Our-projects.html", weight=1},
     { Parent = "proposals", Name = "Proposed stations", URL = "/Proposed-stations.html", weight=2},
     { Parent = "proposals", Name = "Our methodology",    URL = "/Our-methodology.html", weight=3},

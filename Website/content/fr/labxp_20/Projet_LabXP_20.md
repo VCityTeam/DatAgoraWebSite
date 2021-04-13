@@ -13,39 +13,39 @@ Projet de végétalisation du quartier de Part-Dieu à Lyon. Projet réalisé su
 <br>
 
  I. Comment jouer?
-   1. [Contrôles](LabXP_20_Controles)
+   1. [Contrôles](Controles)
 
-   2. [Interface](LabXP_20_Interface)
+   2. [Interface](Interface)
        
        
 II. Fonctionnalités
-   1. [Caméras](LabXP_20_Cameras)
+   1. [Caméras](Cameras)
        
-   2. [Personnages non joueur, véhicules et chemins](LabXP_20_PNJ_Vehicules_Chemins)
+   2. [Personnages non joueur, véhicules et chemins](PNJ_Vehicules_Chemins)
    
-   3. [Plantes et placement](LabXP_20_Plantes)
+   3. [Plantes et placement](Plantes)
 
-   4. [Grille et flux](LabXP_20_Grille)
+   4. [Grille et flux](Grille)
 
-   5. [Gestion de l'argent](LabXP_20_Argent)
+   5. [Gestion de l'argent](Argent)
 
-   6. [Écoulement du temps](LabXP_20_Temps)
+   6. [Écoulement du temps](Temps)
 
-   7. [Menu principal](LabXP_20_Menu)
+   7. [Menu principal](Menu)
    
    
-III. [Modèles](LabXP_20_Modeles)
+III. [Modèles](Modeles)
    
    
 IV. Détails techniques d'implémentation
 
 
-   1. [Managers](LabXP_20_Managers)
+   1. [Managers](Managers)
    
-   2. [Autres scripts](LabXP_20_Scripts)
+   2. [Autres scripts](Scripts)
 
    
-V. [Autres assets](LabXP_20_Assets)
+V. [Autres assets](Assets)
 
 
- [Equipe](LabXP_20_Equipe)
+ [Equipe](Equipe)

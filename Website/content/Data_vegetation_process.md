@@ -32,8 +32,7 @@ Cette page reprend les données utilisées ainsi que les traitements effectués.
 
 <p float="center">
 <img src="Doc/Technical_Documentation/QGis/QGis_Chaussee_Rails.png" alt="Home" width="400"/>
-<img src="Doc/Technical_Documentation/QGis/QGis_Chaussee_Rails_Buffer.png
-" alt="Home" width="400"/>
+<img src="Doc/Technical_Documentation/QGis/QGis_Chaussee_Rails_Buffer.png" alt="Home" width="400"/>
 </p>
 
   * ms:abr_arbres_alignement.abrarbre : Arbres d'alignements déjà compris dans EVA 2015
@@ -41,8 +40,7 @@ Cette page reprend les données utilisées ainsi que les traitements effectués.
   * Pourcentage de végétation à l'IRIS
 
 <p float="center">
-<img src="Doc/Technical_Documentation/QGis/QGis_Couche_EVA_2015_IRIs_Vegetation.png
-" alt="Home" width="400"/>
+<img src="Doc/Technical_Documentation/QGis/QGis_Couche_EVA_2015_IRIs_Vegetation.png" alt="Home" width="400"/>
 <img src="Doc/Technical_Documentation/QGis/QGis_Pourcentage_Vegetation_IRIS_Selectionne.png" alt="Home" width="400"/>
 </p>
 

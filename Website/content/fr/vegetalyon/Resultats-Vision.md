@@ -5,16 +5,16 @@ Cette page présente les résultats obtenus par l'algorythme de [Visions Arboré
 La première grand étape de l'algorithme est de calculer l'aire des isovistes de tous les capteurs sur les voiries. Ce calcul est relativement long, et après la prière fois, il a donc été décidé de le sauvegarder sous forme de shapefile sur la grand zone d'étude.
 
 
-[[images/Isovists.png]]
+![](https://raw.githubusercontent.com/wiki/gheritarish/vegetalyon/images/Isovists.png)
 
 
 ## Résultats à grande échelle
 
-[[images/TVF_big.png]]
+![](https://raw.githubusercontent.com/wiki/gheritarish/vegetalyon/images/TVF_big.png)
 
 Vu de très haut, il peut être complexe de bien repérer les zones avec la plus faible/forte concentration d'arbres, c'est pourquoi nous nous somme tous restreint à un petit périmètre d'étude, afin de faciliter la visibilité mais aussi de pouvoir comparer tous nos indicateurs sur une même zone.
 
-[[images/TVF_zone.png]]
+![](https://raw.githubusercontent.com/wiki/gheritarish/vegetalyon/images/TVF_zone.png)
 
 ## Comment utiliser cet indicateur ?
 

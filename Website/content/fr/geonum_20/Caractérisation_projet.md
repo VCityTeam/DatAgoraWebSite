@@ -8,7 +8,7 @@ En faisant ce travail, nous nous sommes rendus compte que nous faisions de la pr
 
 La réalisation de cette méthodologie a fait émerger plusieurs problématiques que vous trouverez [ici](Problématique).
 
-Enfin, vous pouvez retrouver notre réflexion autour l'exploitation de l'espace disponible en ville en surface et en sous-sol [juste ici](Réflexion).
+Enfin, vous pouvez retrouver notre réflexion autour l'exploitation de l'espace disponible en ville en surface et en sous-sol [juste ici](Réflexions).
 
 [Page précédente - I.3.iii - Pourquoi végétaliser dans l’espace urbain ?](Végétaliser_urbain)
 
