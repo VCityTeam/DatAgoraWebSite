@@ -16,17 +16,17 @@
     {{ range .Site.Menus.main }}
       {{ if .HasChildren }}
           <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
-              <a href="{{ .URL | relURL }}">{{ .Pre }}<span>{{ .Name }}</span></a>
+              <a href="{{ .URL | safeURL | relURL }}">{{ .Pre }}<span>{{ .Name }}</span></a>
           </li>
           <ul class="sub-menu">
               {{ range .Children }}
                   <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
-                      <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+                      <a href="{{ .URL | safeURL | relURL }}">{{ .Name }}</a>
                   </li>
               {{ end }}
           </ul>
       {{ else }}
-          <li><a href="{{ .URL | relURL }}">{{ .Pre }}<span>{{ .Name }}</span></a></li>
+          <li><a href="{{ .URL | safeURL |relURL }}">{{ .Pre }}<span>{{ .Name }}</span></a></li>
       {{ end }}
     {{ end }}
 

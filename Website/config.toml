@@ -7,15 +7,15 @@ baseURL = "."
 #title = "DatAgora"
 
 # For images to be found in content/
-canonifyURLs = true
+#canonifyURLs = true
 #relativeURLs = "true"
-#uglyURLs = "true"
+uglyURLs = "true"
 theme = "hyde"
 
 # see https://discourse.gohugo.io/t/raw-html-getting-omitted-in-0-60-0/22032
 # and https://gohugo.io/getting-started/configuration-markup
-#[markup.goldmark.renderer]
-#unsafe = true
+[markup.goldmark.renderer]
+unsafe = true
 
 DefaultContentLanguage = "en"
 
@@ -35,30 +35,29 @@ sectionPagesMenu = "main"
 
 [Menus]
   main = [
-    { Name = "Principles", URL = "principles", weight=1},
-    { Name = "Data & XP", URL = "dataxp", weight=2},
-    { Name = "Data & Components", URL = "datacomponents", weight=3},
-    { Name = "Data & Agora", URL = "dataagora", weight=4},
+    { Name = "Principles", URL = "/Principles.html", weight=1},
+    { Name = "Data & XP", URL = "/fr/Données-et-Expérimentations.html", weight=2},
+    { Name = "Data & Components", URL = "/Components.html", weight=3},
+    { Name = "Data & Agora", URL = "/Agora.html", weight=4},
 
-    { Identifier = "fos", Name = "Field of studies", URL = "fieldofstudies", weight=10},
-    { Parent = "fos", Name = "Game, mediation and public space", URL = "/fieldofstudies/gmps", weight=1},
-    { Parent = "fos", Name = "Analysis of urban mobility flows", URL = "/fieldofstudies/analysisofurbanmobilityflows", weight=2},
-    { Parent = "fos", Name = "Search in a documentary corpora", URL = "/fieldofstudies/searchindocumentarycorpora", weight=3},
-    { Parent = "fos", Name = "Representation of physical phénomenon", URL = "/fieldofstudies/representationofphysicalphenomenon", weight=4},
-    { Parent = "fos", Name = "Observations of the exchanges", URL = "/fieldofstudies/observationsoftheexchanges", weight=5},
+    { Identifier = "fos", Name = "Field of studies", URL = "/Field-of-studies.html", weight=10},
+    { Parent = "fos", Name = "Game, mediation and public space", URL = "/Game-mediation-and-public-space.html", weight=1},
+    { Parent = "fos", Name = "Analysis of urban mobility flows", URL = "/Analysis-of-urban-mobility-flows.html", weight=2},
+    { Parent = "fos", Name = "Search in a documentary corpora", URL = "/Search-in-documentary-corpora.html", weight=3},
+   { Parent = "fos", Name = "Observations of the exchanges", URL = "/Observations-of-the-exchanges.html", weight=4},
     
-    { Identifier = "proposals", Name = "Our proposals", URL = "proposals", weight=20},
-    { Parent = "proposals", Name = "Our projects", URL = "proposals/projects", weight=1},
-    { Parent = "proposals", Name = "Proposed stations", URL = "proposals/stations", weight=2},
-    { Parent = "proposals", Name = "Our methodology",    URL = "proposals/methodology", weight=3},
+    { Identifier = "proposals", Name = "Our proposals", URL = "/Proposals.html", weight=20},
+    { Parent = "proposals", Name = "Our projects", URL = "/Our-projects.html", weight=1},
+    { Parent = "proposals", Name = "Proposed stations", URL = "/Proposed-stations.html", weight=2},
+    { Parent = "proposals", Name = "Our methodology",    URL = "/Our-methodology.html", weight=3},
 
-    { Name = "About us", URL = "about", weight=30},
-    { Name = "Partners", URL = "partners", weight=31},
-    { Name = "Contact", URL = "contact", weight=32},
-    { Name = "Open positions", URL = "positions", weight=33},
+    { Name = "About us", URL = "/About.html", weight=30},
+    { Name = "Partners", URL = "/Partners.html", weight=31},
+    { Name = "Contact", URL = "/Contact.html", weight=32},
+    { Name = "Open positions", URL = "/Positions.html", weight=33},
 
-    { Name = "Geonum 2020", Identifier = "geonum_20", URL = "fr/geonum_20", weight=1000},
-    { Name = "Végétaliser urbain", Identifier = "geonum_20_vegurban", Parent = "geonum_20", URL = "fr/geonum_20/vegetaliser_urbain", weight=1}
+    { Name = "Geonum 2020", Identifier = "geonum_20", URL = "/fr/geonum_20/Projet_Geonum_20.html", weight=1000},
+    { Name = "Végétaliser urbain", Identifier = "geonum_20_vegurban", Parent = "geonum_20", URL = "/fr/geonum_20/Végétaliser_urbain.html", weight=1}
   ]
 
 

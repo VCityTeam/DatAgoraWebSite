@@ -2,7 +2,7 @@
 
 ***
 
-|![](/images/Grandlyon.png)|![](/images/universite.png)|
+|![](Grandlyon.png)|![](universite.png)|
 |-|-|
 
 
