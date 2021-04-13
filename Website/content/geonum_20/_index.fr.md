@@ -1,7 +1,6 @@
-### Bienvenue dans le Wiki du projet DatAgora des étudiants du Master Géonum !
 
-![](images/partdieu.png)
-![](partdieu.png)
+
+### Bienvenue dans le Wiki du projet DatAgora des étudiants du Master Géonum !
 
 Ce Wiki est le fruit d'une collaboration entre d'une part, 4 étudiants du Master Géographies Numériques, et d'autre part, les membres du projet DatAgora.
 
@@ -50,61 +49,61 @@ Notre sujet d'étude est celui de [La place de la végétation dans la ville](Ve
 
 
 
- I. [Dans quelles démarches s’inscrit notre collaboration avec le projet DatAgora ?](Geonum_20_Demarche_projet)
+ I. [Dans quelles démarches s’inscrit notre collaboration avec le projet DatAgora ?](Demarche_projet)
 
-   1. [Les partenaires du projet](Geonum_20_Partenaires_projet)
+   1. [Les partenaires du projet](Partenaires_projet)
 
-   2. [Les initiatives de départ du projet](Geonum_20_Initiatives_projet)
+   2. [Les initiatives de départ du projet](Initiatives_projet)
        
-   3. [Les objectifs du projet](Geonum_20_Objectifs_projet)
+   3. [Les objectifs du projet](Objectifs_projet)
    
-       1. [Description du projet](Geonum_20_Description_projet)
-       2. [Le terrain d'étude](Geonum_20_Territoire_etude)
-       3. [Pourquoi végétaliser dans l’espace urbain ?](Geonum_20_Végétaliser_urbain)
+       1. [Description du projet](Description_projet)
+       2. [Le terrain d'étude](territoire_etude)
+       3. [Pourquoi végétaliser l’espace urbain ?](vegetaliser_urbain)
         
-   4. [Caractérisation du projet](Geonum_20_Caractérisation_projet)
+   4. [Caractérisation du projet](Caractérisation_projet)
    
-       1. [Comment prospecter ?](Geonum_20_Prospection)
-       1. [Mise en place d’une problématique](Geonum_20_Problématique)
-       1. [Pistes de réflexion](Geonum_20_Réflexions)
+       1. [Comment prospecter ?](Prospection)
+       1. [Mise en place d’une problématique](Problématique)
+       1. [Pistes de réflexion](Réflexions)
        
        
        
 II. Constitution et caractérisation de notre base de données
 
-   1. [Récupération des données](Geonum_20_Recuperation_donnees)
+   1. [Récupération des données](Recuperation_donnees)
    
-       1. [Les données disponibles en Open Source](Geonum_20_Donnees_opensource)
-       1. [Les données “privées”](Geonum_20_donnees_privees)
-       1. [Tableau des données](Geonum_20_tableau_donnees)
+       1. [Les données disponibles en Open Source](Donnees_opensource)
+       1. [Les données “privées”](donnees_privees)
+       1. [Tableau des données](tableau_donnees)
        
-   2. [Mise en place d’une méthodologie](Geonum_20_Methodologie)
+   2. [Mise en place d’une méthodologie](Methodologie)
    
    
 III. Mise en place de l’outil SIG
 
-   1. [Ajout des couches et pré-traitement](Geonum_20_Pre_traitement_donnee)
+   1. [Ajout des couches et pré-traitement](Pre_traitement_donnee)
    
-   1. [Application de la méthodologie et géo-traitements](Geonum_20_Geotraitements)
+   1. [Application de la méthodologie et géo-traitements](Geotraitements)
    
-   1. [Couche finale](Geonum_20_Couche_finale)
+   1. [Couche finale](Couche_finale)
    
    
 IV. Résultats
 
-   1. [Interprétation](Geonum_20_Interpretation_resultats)
+   1. [Interprétation](Interpretation_resultats)
    
    1. Ouverture
 
-       1. [Enjeux, limites, critiques](Geonum_20_Enjeux_limites_critiques)
-       1. [Inclure la variable Z](Geonum_20_Variable_Z)
-       1. [Les pistes non explorées](Geonum_20_Pistes_non_explorées)
+       1. [Enjeux, limites, critiques](Enjeux_limites_critiques)
+       1. [Inclure la variable Z](Variable_Z)
+       1. [Les pistes non explorées](Pistes_non_explorées)
    
    
-V. [Visualisation des données](Geonum_20_Visualisation_donnee)
+V. [Visualisation des données](Visualisation_donnee)
 
 
-[Ressources bibliographiques](Geonum_20_Bibliographie)
+[Ressources bibliographiques](Bibliographie)
 
 
 

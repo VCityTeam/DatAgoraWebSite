@@ -3,8 +3,8 @@
 # section is not taken into account when defined in the yaml config file...
 
 baseURL = "."
-languageCode = "en-us"
-title = "DatAgora"
+#languageCode = "en-us"
+#title = "DatAgora"
 
 # For images to be found in content/
 canonifyURLs = true
@@ -17,15 +17,37 @@ theme = "hyde"
 #[markup.goldmark.renderer]
 #unsafe = true
 
-defaultContentLanguage = "en"
-[languages]
-  [languages.en]
+DefaultContentLanguage = "en"
+
+sectionPagesMenu = "main"
+[Languages]
+  [Languages.en]
+    title = "DatAgora EN"
+    languageName = "English"
+    #languageCode = "en-us"
     weight = 1
-  [languages.fr]
-    languageCode = "fr"
+  [Languages.fr]
+    title = "DatAgora FR"
+    languageName = "Français"
+    #languageCode = "fr-fr"
     weight = 2
 
 [Menus]
+  main = [
+    { Name = "Principles", URL = "principles", weight=1},
+    { Name = "About us", URL = "about", weight=97},
+    { Name = "Partners", URL = "partners", weight=98},
+    { Name = "Contact", URL = "contact", weight=99},
+    { Name = "Open positions", URL = "positions", weight=100},
+
+    { Identifier = "proposals", Name = "Our proposals", URL = "proposals", weight=101},
+    { Parent = "proposals", Name = "Our projects", URL = "proposals/projects", weight=1},
+    { Parent = "proposals", Name = "Proposed stations", URL = "proposals/stations", weight=2},
+    { Parent = "proposals", Name = "Our methodology",    URL = "proposals/methodology", weight=3},
+
+    { Name = "Geonum 2020", Identifier = "geonum_20", URL = "fr/geonum_20", weight = 1000},
+    { Name = "Végétaliser urbain", Identifier = "geonum_20_vegurban", Parent = "geonum_20", URL = "fr/geonum_20/vegetaliser_urbain", weight = 1001}
+  ]
   # The 80 columns coding style cannot be enforced otherwise hugo
   # triggers a "newlines not allowed within inline tables" error
   fieldofstudies = [
@@ -34,14 +56,6 @@ defaultContentLanguage = "en"
     { Name = "Search in a documentary corpora", URL = "/fieldofstudies/searchindocumentarycorpora", weight=4},
     { Name = "Representation of physical phénomenon", URL = "/fieldofstudies/representationofphysicalphenomenon", weight=5},
     { Name = "Observations of the exchanges",    URL = "/fieldofstudies/observationsoftheexchanges", weight=6}
-
-  ]
-
-  proposal = [
-    { Name = "Our project", URL = "/proposal/Our project", weight=2},
-    { Name = "Proposed stations", URL = "/proposal/Proposed stations", weight=3},
-    { Name = "Our methodology",    URL = "/proposal/Our methodology", weight=4}
-
   ]
 
 
