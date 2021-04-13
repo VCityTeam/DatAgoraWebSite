@@ -2,7 +2,7 @@
 Cette page présente les résultats obtenus par l'algorithme sur les [ombres](Donnees-d-ombre). Nous allons ici présenter la carte de nos résultats avant de l'expliquer. Enfin, nous montrerons l'usage qui peut être fait d'une telle carte.
 
 ## Carte des résultats
-![](https://raw.githubusercontent.com/wiki/gheritarish/vegetalyon/images/Ombres.png)
+![Ombres](Ombres.png)
 
 Cette carte a été créée sur un vide, dans l'objectif de faire ressortir nos résultats. Sur ce fond, nous avons ajouté une première couche, qui est celle des différents bâtiments du quartier, représentés en gris. Nous avons ensuite affichés les arbres, provenant de la [donnée d'alignement des arbres de la métropole](https://data.grandlyon.com/jeux-de-donnees/arbres-alignement-metropole-lyon/donnees), représentés par des points verts.
 
@@ -10,7 +10,7 @@ Enfin, pour l'affichage de notre grille, nous avons réalisé un petit traitemen
 
 Ci-après nous avons présenté la même carte en rajoutant un fond de carte OSM. En réduisant un peu l'opacité de la grille, cela permet de mieux se rendre compte des espaces en question notamment ceux que la grille ne couvre pas.
 
-![](https://raw.githubusercontent.com/wiki/gheritarish/vegetalyon/images/Fond-carte-ombres.png)
+![Fond-carte-ombres](Fond-carte-ombres.png)
 
 ## Comment utiliser ces cartes ?
 Une fois que nous avons utilisé une telle carte, la question que nous pouvons nous poser est l'usage que nous pouvons en faire. En effet, une telle carte n'est pas forcément très parlante.

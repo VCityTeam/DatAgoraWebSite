@@ -3,22 +3,22 @@ Cette page présente les résultats obtenus par l'algorithme sur les [toits vég
 
 ## Cartes des résultats
 
-<img src="https://github.com/gheritarish/vegetalyon/wiki/images/finale.png" width="600">
+![finale](finale.png)
 
 Ces quatre cartes ont été crées sans fond de carte, l'objectif étant juste de représenter les toits et le grand bâtiment de la gare permettant déjà de localiser les bâtiments. Nous avons utilisé l'outil de visualisation intégré dans `GeoPandas`, qui nous permet d'afficher ces quatre cartes choroplèthes des quatre indicateurs sur la même figure. Nous avons uniquement affiché le résultat de notre script sur la donnée de toits plats fournie par sur l'OpenData du Grand Lyon sur la zone totale. 
 
 On réalise un traitement en affichant les bâtiments du jaune lorsque l'indicateur est le plus élevé (donc le plus positif) au bleu foncé lorsque l'indicateur est le plus faible (donc là où le toit est le moins végétalisable). La méthode ici utilisée est celle des intervalles égaux. Nous présentons ici les indicateurs normalisés, dans un but de comparaison entre les différentes cartes. 
 
 
-<img src="https://github.com/gheritarish/vegetalyon/wiki/images/intervalles.png" width="500">
+![intervalles](intervalles.png)
 
 Cette dernière carte est la visualisation de notre indicateur global de végétalisation avec la méthode des intervalles égaux. De la même manière que pour les cartes précédentes, comme la légende l'indique, les bâtiments les plus végétalisables sont représentés dans les tons jaunes contrairement à ceux pour lesquels les toits où cela serait moins pertinent sont affichés en bleu foncé/violet. Pour avoir plusieurs perspectives différentes de visualisation, on réalise la même carte mais avec une méthode par quantiles : 
 
-<img src="https://github.com/gheritarish/vegetalyon/wiki/images/quantiles.png" width="500">
+![quantiles](quantiles.png)
 
 Nous pourrions reprocher à ces carte qu'elles n'affichent pas de manière plus claire les toits qui ont été déterminés "non végétalisables" car pas assez exposés au soleil. Actuellement, ces toits sont représentés en noir. Pour cela, nous pourrions afficher la même donnée avec l'aide de QGIS qui nous permet de créer une classe de couleur spéciale pour les toits dont l'**IGVG** vaut zéro d'une autre couleur. On a fait ici l'essai avec une petite zone, une méthode de visualisation par quantiles et des toits non végétalisables en rouge : 
 
-<img src="https://github.com/gheritarish/vegetalyon/wiki/images/qgisrouge.png" width="500">
+![qgisrouge](qgisrouge.png)
 
 ## Comment utiliser ces cartes ?
 

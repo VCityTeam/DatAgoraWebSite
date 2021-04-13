@@ -39,7 +39,7 @@ On calcule donc ce **RER** en approximant que la surface des façades laterales 
 
 Ensuite, nous réutilisons la formule d'efficacité thermique ainsi que la valeur des coefficients de cette équation présentée par Barbara Tolino dans son mémoire, elle-même s'appuyant sur les travaux de *Martens et al. (2008)*. Nous pouvons voir ci-dessous une modélisation effectuée par Thomas Leduc du lien entre le **RER**, la hauteur **H** du bâtiment et l'efficacité thermique **ET**. Cela explique la présence du **RER** et de la hauteur dans l'expression que nous utilisons dans le code. 
 
-[[https://raw.githubusercontent.com/wiki/gheritarish/vegetalyon/images/ET_RER_H.png]]
+![ET_RER_H](ET_RER_H.png)
 
 Nous avons alors créé **ET**, notre coefficient d'efficacité thermique. Plus il est élevé, plus l'installation d'un toit végétalisé permettrait de réduire les besoins énergétiques du bâtiment. 
 
@@ -62,7 +62,7 @@ L'indice de surface verte visible permet de savoir à quel point le toit - si il
 Pour cela, nous utilisons la fonction `SkyViewFactorOnTopOfRoof` implantée par Thomas Leduc dans le module `t4gpd`. Cette fonction permet, comme son nom l'indique de calculer un facteur de vue du ciel (**SVF**) depuis un toît. Plus exactement, il s'agit du rapport entre la surface de ciel visible (non obstruée par des bâtiments ou autre) depuis le toit et une demi sphere centrée sur ce toit. 
 
 
-[[https://raw.githubusercontent.com/wiki/gheritarish/vegetalyon/images/svf.jpg]]
+![svf](svf.jpg)
 
 _Image d'illustration du SVF pour plusieurs dispositions différentes_
 
@@ -79,7 +79,7 @@ On réalise immédiatement une reprojection de ce nouveau dataframe en WGS 84 ca
 L'exposition au soleil du toît est un facteur primordial à prendre en compte pour végétaliser un toit. En effet, sans ensoleillement correct, les plantes sont incapables de pousser et ne peuvent apporter aucun des avantages modélisés par les indicateurs précédents. C'est pourquoi nous avons repris l'indicateur proposé par Barbara Tolino. Comme on peut le voir sur l'image suivante, l'ensoleillement peut beaucoup varier d'un toit à l'autre, même si ils sont voisins. 
 
 
-<img src="https://raw.githubusercontent.com/wiki/gheritarish/vegetalyon/images/cadastresolaire.png" width="500">
+![cadastresolaire](cadastresolaire.png)
 
 _Image tirée du cadastre solaire de la ville de Lyon pour une partie de notre zone_
 

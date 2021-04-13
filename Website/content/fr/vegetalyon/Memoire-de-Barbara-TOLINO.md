@@ -54,7 +54,7 @@ Encore à Lisbonne (Silva et al.,Naing et al.) : analyse multi-critère avec 19 
 
 Explication du fonctionnement des toits végétalisés dans l'image (lien ci-dessous) : 
 
-[[images/struc_toit_vegetal.png]]
+![struc_toit_vegetal](struc_toit_vegetal.png)
 
 *Peut-être que pour nous, si on veut amener des arbres, il faudrait utiliser une toiture-jardin, donc une végatation intensive*
 
@@ -103,7 +103,7 @@ Utilisation de T4GS : Tools For QGIS *(équivalent de t4gpd)*
 
 Dans les tableaux ci-dessous, on a la classification des résultats des indicateurs (0 étant le moins bien, 3 le meilleur)
 
-[[images/tableaux_resultats.png]]
+![tableaux_resultats](tableaux_resultats.png)
 
 On obtient alors le potentiel de la manière suivante (avec A, B et C coefficients à discuter dont la somme est 1): 
 
