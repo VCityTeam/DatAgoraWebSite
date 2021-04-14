@@ -18,4 +18,4 @@ Lors du placement, la plante prend une couleur bleue quand l'emplacement est val
 
 [Page précédente - II.2 - Personnages non joueur, véhicules et chemins](PNJ_Vehicules_Chemins)
 
-[Page suivante - II.4 - Grille et flux](https://github.com/VCityTeam/DatAgora/wiki/LabXP_20_Grille)
+[Page suivante - II.4 - Grille et flux](Grille)

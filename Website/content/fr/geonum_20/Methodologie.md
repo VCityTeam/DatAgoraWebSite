@@ -259,4 +259,4 @@ D’autres éléments de réglementation peuvent être intégrés dans un SIG en
 
 [Page précédente - II.1.iii - Tableau des données](tableau_donnees)
 
-[Page suivante - III.1 - Ajout des couches et pré-traitement](https://github.com/VCityTeam/DatAgora/wiki/_Pre_traitement_donnee)
+[Page suivante - III.1 - Ajout des couches et pré-traitement](Pre_traitement_donnee)

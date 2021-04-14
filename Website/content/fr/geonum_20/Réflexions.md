@@ -18,6 +18,6 @@ Suite à ces premières pistes, nous nous sommes questionnés sur les méthodes 
 
 <img align="center" src="Espaces_Dispo_Sous_sol.jpg">
 
-[Page précédente - I.4.ii - Mise en place d’une problématique](https://github.com/VCityTeam/DatAgora/wiki/_Problématique)
+[Page précédente - I.4.ii - Mise en place d’une problématique](Problématique)
 
 [Page suivante - II.1 - Récupération des données](Recuperation_donnees)

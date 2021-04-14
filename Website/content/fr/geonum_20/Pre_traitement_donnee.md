@@ -28,4 +28,4 @@ Séparation en deux couches :
 
 [Page précédente - II.2 - Mise en place d’une méthodologie](Methodologie)
 
-[Page précédente - III.2 - Application de la méthodologie et géo-traitements](https://github.com/VCityTeam/DatAgora/wiki/_Geotraitements)
+[Page précédente - III.2 - Application de la méthodologie et géo-traitements](Geotraitements)

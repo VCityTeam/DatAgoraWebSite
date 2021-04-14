@@ -39,4 +39,4 @@ Lors de notre projet nous avons négligé le côté biologique de l’arbre. En 
 
 [Page précédente - IV.2.ii - Inclure la variable Z](Variable_Z)
 
-[Page suivante - V - Visualisation des données](https://github.com/VCityTeam/DatAgora/wiki/_Visualisation_donnee)
+[Page suivante - V - Visualisation des données](Visualisation_donnee)
