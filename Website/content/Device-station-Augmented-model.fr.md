@@ -17,71 +17,72 @@ It's a perfect tool for mediation and problem solving on geographic data, embody
 
 ## How build it ? 
 
-### Equipment (english version) 
-Structure
-- 4x black wings 2.90 x 5.10 m
-- 4x wooden rod diameter 35 mm, length 3 m
-- 2x wooden rod diameter 35 mm, length 2 m
-- 2x "Manfrotto - 111 CSU" tripod
-- 2x "Manfrotto - 270 CSU" tripod
-- 5x black aluminum tube diameter 50 mm, length 3 m "ASD - EX50300"
-- 4x black aluminum tube diameter 50 mm, length 2 m
-- 1x black aluminum tube diameter 50 mm, length 50 cm, with welded half-coupler (for video projector support)
-- 1x video projector support with half-coupler
-- 4x spigot adapter - "Manfrotto - C4461-1" half-coupler
-- 8x coupler for 50 mm tube with variable angle, 50 mm thickness "KUPO - KCP-833"
-- 8x "Manfrotto - 035" superclamp
-- 4x "Manfrotto 203" mini right angle arm
+### Equipment (french version) 
+**Structure**
+- 4x pendrillon noir 2,90 x 5,10 m
+- 4x tringle bois diamètre 35 mm, longueur 3 m
+- 2x tringle bois diamètre 35 mm, longueur 2 m
+- 2x trépied "Manfrotto - 111 CSU"
+- 2x trépied "Manfrotto - 270 CSU"
+- 5x tube aluminium noir diamètre 50 mm, longueur 3 m "ASD - EX50300"
+- 4x tube aluminium noir diamètre 50 mm, longueur 2 m
+- 1x tube aluminium noir diamètre 50 mm, longueur 50 cm, avec demi-coupleur soudé (pour support vidéoprojecteur)
+- 1x support vidéoprojecteur avec demi-coupleur
+- 4x adaptateur spigot - demi-coupleur "Manfrotto - C4461-1"
+- 8x coupleur pour tube 50 mm à angle variable, épaisseur 50 mm "KUPO - KCP-833"
+- 8x superclamp "Manfrotto - 035"
+- 4x mini-bras angle droit "Manfrotto 203"
 - 4x double spigot "Manfrotto 013"
-- 1x square table 75 x 75 cm "IKEA - INGO"
-- 4x half-coupler for 50 mm tube, 30 mm thickness "KUPO - KCP-901"
-- 6x half-coupler for 50 mm tube, 50 mm thickness "KUPO - KCP-831"
-- 6x "ASD - MEX50" kit (including 1 tapered aluminum half-hub M10 tapped, 1 taper pin, 1 safety clip, 1 FHC M10 x 25 mm screw)
-- 4x assembly including:
-- 4x half-coupler for 50 mm tube, 30 mm thickness "KUPO - KCP- 901"
-- 4x M10 threaded nut
-- 4x M12 threaded nut serving as a thick washer
-- 4x "Manfrotto - 035" superclamp
-- 4x steel screw with M10 thread head, length (???)
+- 1x table carrée 75 x 75 cm "IKEA - INGO"
+- 4x demi-coupleur pour tube 50 mm, épaisseur 30 mm "KUPO - KCP-901"
+- 6x demi-coupleur pour tube 50 mm, épaisseur 50 mm "KUPO - KCP-831"
+- 6x kit "ASD - MEX50" (comprenant 1 demi-moyeu conique alu taraudé M10, 1 goupille conique, 1 clip de sécurité, 1 vis FHC M10 x 25 mm)
+- 4x assemblage comprenant :
+- 4x demi-coupleur pour tube 50 mm, épaisseur 30 mm "KUPO - KCP- 901"
+- 4x écrou taraudage M10
+- 4x écrou taraudage M12 servant de rondelle épaisse
+- 4x superclamp "Manfrotto - 035"
+- 4x vis acier à tête filetage M10, longueur (???)
 
-**Electrical wiring**
-- 1x black 3-slot power strip
-- 1x 5-slot black "flat" power strip (with power cable)
-- 1x mains extension cable 5 m
-- 1x mains extension cable 10 m
-- 1x prolo cable, 2.5 m mains generator
+**Câblage électrique**
+- 1x bloc multiprise 3 slots noir
+- 1x bloc multiprise 5 slots noir "plat"(avec câble d'alim)
+- 1x câble prolongateur secteur 5 m
+- 1x câble prolongateur secteur 10 m
+- 1x câble prolo,gateur secteur 2,5 m
 
-** Active equipment and computer cabling **
-- 1x "Optoma - 1080E" video projector (with power cable)
-- 1x video projector remote control
-- 1x "Zotac - ZBox EN1050" desktop computer (with power supply and cable) - video outputs for cabling: 2x HDMI
-- 1x "Logitec - C920" webcam
-- 1x USB extension 5 m (for webcam)
-- 1x USB keyboard / mouse kit
-- 1x "Acer - T231H" computer monitor (with power cable)
-- 1x HDMI repeater "Kœnig - ???" (with power supply unit)
-- 2x HDMI cable 1.5 m (for video projector and computer screen)
-- 1x HDMI cable 5 m
+**Matériel actif et câblage informatique**
+- 1x vidéoprojecteur "Optoma - 1080E" (avec câble d'alim)
+- 1x télécommande vidéoprojecteur
+- 1x ordinateur desktop "Zotac - ZBox EN1050" (avec bloc et câble d'alim) - sorties vidéo pour câblage : 2x HDMI
+- 1x webcam "Logitec - C920" 
+- 1x prolongateur USB 5 m (pour webcam)
+- 1x kit clavier / souris USB
+- 1x écran informatique "Acer - T231H" (avec câble d'alim)
+- 1x répéteur HDMI "Kœnig - ???" (avec bloc d'alim)
+- 2x câble HDMI 1,5 m (pour vidéoprojecteur et écran informatique)
+- 1x câble HDMI 5 m
 
-**Tools**
-- wood saw
-- metal saw
-- adjustable wrench
+**Outils**
+- scie à bois
+- scie à métaux
+- clé à molette
 
-**Consumables**
-- paper adhesive
-- "Advance - AT170N" gaffer type adhesive
-- black "Barnier" type adhesive
+**Consommables**
+- adhésif papier
+- adhésif type gaffer "Advance - AT170N"
+- adhécif type "Barnier" noir
 
-**Various**
-- intervention box with meters, bubble level ...
-- 3x "large" European standard plastic box (dimensions?)
-- 1x "medium size" European standard plastic box (dimensions?)
-- 1x "small size" European standard plastic box (dimensions?)
-- 1x white step stool (model?)
-- 1x green-yellow stepladder (model?)
+**Divers**
+- caisse d'intervention avec mètres, niveau à bulles...
+- 3x caisse plastique norme Europe "grande taille" (dimensions ?)
+- 1x caisse plastique norme Europe "taille moyenne" (dimensions ?)
+- 1x caisse plastique norme Europe "petite taille" (dimensions ?)
+- 1x marchepied blanc (modèle ?)
+- 1x escabeau vert-jaune (modèle ?)
 
-### Installation (example at the urbanLab) 
+
+### Installation (exemple à l'urbanLab) 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a051c6a4-babe-4969-88f2-1d559eae218e/Maquette_Augmentee_2020-01_-_01.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201019%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201019T085955Z&X-Amz-Expires=86400&X-Amz-Signature=8adf14d0d27305ef885bca6548cb86b82af7bda3861ff5bd4033c914ee59e15d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Maquette%2520Augmente%25CC%2581e%25202020-01%2520-%252001.jpg%22)
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/92db862f-b925-4d41-866a-233d6eedb861/Maquette_Augmentee_2020-01_-_02.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201019%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201019T090028Z&X-Amz-Expires=86400&X-Amz-Signature=ca9fa6c4fa22f9c29f99baaeda22af30b529b5c21cdab57ef5100349835ff6b9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Maquette%2520Augmente%25CC%2581e%25202020-01%2520-%252002.jpg%22)
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ceca9bc4-ddbc-4c22-a31e-284679a05eda/Maquette_Augmentee_2020-01_-_03.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201019%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201019T090043Z&X-Amz-Expires=86400&X-Amz-Signature=671578b39c14ed18eaa3c8dd7701112ef3f486a0094a213b75b500a1856738b3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Maquette%2520Augmente%25CC%2581e%25202020-01%2520-%252003.jpg%22)
@@ -107,7 +108,7 @@ Structure
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/704fae04-76e4-4f7f-9805-7509f135bd3e/image-85e2b7fb-2bf1-4bbe-84be-371f95a99959.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201019%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201019T090455Z&X-Amz-Expires=86400&X-Amz-Signature=eafd3842eed425e74379c2c9692aa063c30e686e43db39e0a499d8fc96cd536d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22image-85e2b7fb-2bf1-4bbe-84be-371f95a99959.jpg%22)
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2ae76707-3995-4d53-8e83-7e985bf19d20/image-d8030c44-0462-4da8-83ce-3d134ea0b10d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201019%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201019T090508Z&X-Amz-Expires=86400&X-Amz-Signature=e4c0c9cd59486c8e1a3499e7367c527fbfd2c276e20a47e6cf8ca79b3d241be7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22image-d8030c44-0462-4da8-83ce-3d134ea0b10d.jpg%22)
 
-## How use it ? 
+## Comment l'utiliser ? 
 
 * rules to book a time slot with the model 
 * rules to project data (what kind of data...) 
