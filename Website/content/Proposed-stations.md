@@ -5,7 +5,7 @@ We propose a variety of stations to help fullfil the needs we encountered during
 ## Physical stations
 
 ### Model Display 
-<img align="right" src="PartDieuModel/erasme-imu.png" width="600">
+![erasme-imu](PartDieuModel/erasme-imu.png)
 
 The technical device is made up of several elements, starting with the table in its centre on which the model is placed. It is surrounded by an iron frame to which the various elements are attached to enrich its use: 
 * a video projector
