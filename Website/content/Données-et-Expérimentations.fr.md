@@ -9,7 +9,7 @@ Le projet est une collaboration avec "Le Plan Canopé", qui vise à planter plus
 Notre problème est de savoir où planter ces arbres pour qu'ils soient les plus efficaces et le moins contraignants possible. Au cours du dernier semestre de 2020, nous avons collecté un maximum de données urbaines qui pourraient être utiles pour traiter et visualiser les parties de la ville les plus adaptées au verdissement de la métropole de Lyon, même si la première étape est de se concentrer sur la zone de la Part Dieu.
 Un ensemble de projets a été instruit en ce sens.
 
-- [Place of Vegetation in cities](Vegetalization-Project) : This project consists in the development of a 3D model of Part-Dieu, one of the most important area of Lyon, to interact with data regarding the revegetation of the city in order to mediate on the subject. To do so, several devices will also surround the model to help display, analyze and interact with urban data. We are closelly collaborating with Metropole de Lyon ([Erasme Urban Lab](https://www.erasme.org/), vegetation services, data services) to carry out this project.
+- [Place of Vegetation in cities](Vegetalization-Project) : Ce projet consiste à développer un modèle 3D de la Part-Dieu, l'un des quartiers les plus importants de Lyon, pour interagir avec les données concernant la revégétalisation de la ville afin d'agir comme médiateur sur le sujet. Pour ce faire, plusieurs dispositifs entoureront également le modèle pour aider à afficher, analyser et interagir avec les données urbaines. Nous collaborons étroitement avec la Métropole de Lyon ([Erasme Urban Lab](https://www.erasme.org/), services de végétation, services de données) pour mener à bien ce projet.
 
 - Lien vers le [Projet Geonum](geonum_20/projet_geonum_20.html) : Projet d’étudiants du Master Géonum de l’UDL qui a pour objectif, à partir de couches de données urbaines, de fournir de nouvelles couches de données qui permettent de faire ressortir les points les plus importants que l’on souhaite mettre en évidence, mais également de produire de nouvelles valeurs statistiques.
 
@@ -22,16 +22,6 @@ Un ensemble de projets a été instruit en ce sens.
 - Lien vers la semaine de l'anthropocène 2021 : La semaine de l'anthropocène est un évènement organisé depuis deux ans par l’École urbaine de Lyon, qui rassemble des participants aux profils très divers autour de différentes activités (tables rondes, ateliers, expositions,...) qui traitent de l'impact de l'homme sur son environnement.
 
 - Lien vers le [projet ECN VegetaLyon](vegetalyon/vegetalyon.html)
-
-### Développement de composants
-- Lien vers le projet POM 1 : Ces trois projets son réalisés par des étudiants de l'Université Lyon 1. Ces trois projets ont pour but de fournir des briques logicielles répondant chacune à un besoin précis. La première doit permettre de parser des données GML pour obtenir un modèle 3D.
-
-- Lien vers le projet POM 2: La seconde doit  permettre de créer à partir d'un modèle 3D une représentation en voxels.
-
-- Lien vers le projet POM 3: Enfin, la troisième vise à reconstruire un modèle 3D dans Minecraft.
-
-- Lien vers le projet ECL (Qualification de la donnée) : Un autre projet d'étudiants de l'Ecole Centrale de Lyon qui sert à analyser des fichiers de données pour y détecter des incomplétudes, des doublons ou certaines erreurs d'écriture. Il permet également de faire un tri des données selon des valeurs maximales et minimales, et de comparer deux fichiers de données pour relever les différences entre les deux versions.
-
 
 ### Interactions 
 Abstract

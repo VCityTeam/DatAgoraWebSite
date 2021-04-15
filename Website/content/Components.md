@@ -73,3 +73,14 @@ A web tool to visualize and interact with custom data layers.
 </p>
 
 [Source code](https://github.com/VCityTeam/UD-Viz)
+
+### Développement de composants
+- Lien vers le projet POM 1 : Ces trois projets son réalisés par des étudiants de l'Université Lyon 1. Ces trois projets ont pour but de fournir des briques logicielles répondant chacune à un besoin précis. La première doit permettre de parser des données GML pour obtenir un modèle 3D.
+
+- Lien vers le projet POM 2: La seconde doit  permettre de créer à partir d'un modèle 3D une représentation en voxels.
+
+- Lien vers le projet POM 3: Enfin, la troisième vise à reconstruire un modèle 3D dans Minecraft.
+
+- Lien vers le projet ECL (Qualification de la donnée) : Un autre projet d'étudiants de l'Ecole Centrale de Lyon qui sert à analyser des fichiers de données pour y détecter des incomplétudes, des doublons ou certaines erreurs d'écriture. Il permet également de faire un tri des données selon des valeurs maximales et minimales, et de comparer deux fichiers de données pour relever les différences entre les deux versions.
+
+
