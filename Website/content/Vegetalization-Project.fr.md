@@ -1,6 +1,5 @@
 ## Introduction
-
-<img align="right" src="PartDieuModel/SansProjection.jpg" width="400">
+![](PartDieuModel/SansProjection.jpg)
 La Part-Dieu est un quartier central dans la vie culturelle et économique de Lyon. C'est un point névralgique du réseau de transports de la ville, ce qui en fait un point d'intérêt crucial à l'échelle européenne. En outre, c'est le plus important quartier financier de France, en dehors de la capitale. Compte tenu de l'importance de la Part-Dieu pour le développement futur de Lyon et de la France, chaque aspect de ce quartier, chaque changement futur doit être soigneusement étudié et planifié pour assurer sa prospérité.
 
 ## Problématique
