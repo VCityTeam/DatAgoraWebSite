@@ -1,5 +1,5 @@
 ## Introduction
-  <img align="right" src="PartDieuModel/SansProjection.jpg" width="400">
+![](PartDieuModel/SansProjection.jpg)
 Part-Dieu is a central neighbourhood in the cultural and economical life of Lyon. It is the central transport node of the city, making it a crucial point of interest to a european scale. Furthermore, it is the most important financial district in France, outside of the capital. Considering Part-Dieu importance for the future development of Lyon and France, every aspect of it, every future change has to be carefully studied and planed to ensure that it's prosperity remains top notched.
 
 ## Problematic
