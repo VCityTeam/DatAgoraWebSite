@@ -11,9 +11,9 @@ Un ensemble de projets a été instruit en ce sens.
 
 - [Place of Vegetation in cities](Vegetalization-Project) : Ce projet consiste à développer un modèle 3D de la Part-Dieu, l'un des quartiers les plus importants de Lyon, pour interagir avec les données concernant la revégétalisation de la ville afin d'agir comme médiateur sur le sujet. Pour ce faire, plusieurs dispositifs entoureront également le modèle pour aider à afficher, analyser et interagir avec les données urbaines. Nous collaborons étroitement avec la Métropole de Lyon ([Erasme Urban Lab](https://www.erasme.org/), services de végétation, services de données) pour mener à bien ce projet.
 
-- Lien vers le [Projet Geonum](geonum_20/projet_geonum_20.html) : Projet d’étudiants du Master Géonum de l’UDL qui a pour objectif, à partir de couches de données urbaines, de fournir de nouvelles couches de données qui permettent de faire ressortir les points les plus importants que l’on souhaite mettre en évidence, mais également de produire de nouvelles valeurs statistiques.
+- Lien vers le [Projet Geonum](geonum_20/Projet_Geonum_20) : Projet d’étudiants du Master Géonum de l’UDL qui a pour objectif, à partir de couches de données urbaines, de fournir de nouvelles couches de données qui permettent de faire ressortir les points les plus importants que l’on souhaite mettre en évidence, mais également de produire de nouvelles valeurs statistiques.
 
-- Lien vers le [Projet LabXP](labxp_20/projet_labxp_20.html) : Il s'agit d'un projet de création de jeu vidéo réalisé par des étudiants de GAMAGORA. Il s'agit d'un prototype de jeu de gestion qui à pour but de gérer la végétation dans un environnement urbain. Il vise à montrer au joueur la complexité qu'il y a à gérer l'implantation et la maintenance des zones vertes en ville, en tenant compte de plusieurs paramètres environnementaux.  
+- Lien vers le [Projet LabXP](labxp_20/Projet_Labxp_20) : Il s'agit d'un projet de création de jeu vidéo réalisé par des étudiants de GAMAGORA. Il s'agit d'un prototype de jeu de gestion qui à pour but de gérer la végétation dans un environnement urbain. Il vise à montrer au joueur la complexité qu'il y a à gérer l'implantation et la maintenance des zones vertes en ville, en tenant compte de plusieurs paramètres environnementaux.  
 
 - Lien vers le projet ECL (Dashboard) : Ce projet réalisé par des étudiants de l'Ecole Centrale de Lyon permet la récupération de données en ligne ainsi que leur traitement afin de calculer différents indicateurs statistiques. Il permet de restituer ces informations sous la forme d'un tableau de bord modulable, qui peut comporter des éléments graphiques en plus de l'affichage de données brutes.
 
@@ -21,7 +21,7 @@ Un ensemble de projets a été instruit en ce sens.
 
 - Lien vers la semaine de l'anthropocène 2021 : La semaine de l'anthropocène est un évènement organisé depuis deux ans par l’École urbaine de Lyon, qui rassemble des participants aux profils très divers autour de différentes activités (tables rondes, ateliers, expositions,...) qui traitent de l'impact de l'homme sur son environnement.
 
-- Lien vers le [projet ECN VegetaLyon](vegetalyon/vegetalyon.html)
+- Lien vers le [projet ECN VegetaLyon](vegetalyon/VegetaLyon)
 
 ### Interactions 
 Abstract

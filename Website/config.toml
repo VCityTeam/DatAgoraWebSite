@@ -38,7 +38,7 @@ sectionPagesMenu = "main"
   main = [
     { Name = "Principles", URL = "/Principles.html", weight=1},
     { Name = "Methodology",    URL = "/Our-methodology.html", weight=2},
-    { Name = "Data & XP", URL = "/fr/Données-et-Expérimentations.html", weight=3},
+    { Name = "Data & XP", URL = "/Données-et-Expérimentations.html", weight=3},
     { Name = "Data & Components", URL = "/Components.html", weight=4},
     { Name = "Data & Agora", URL = "/Agora.html", weight=5},
 
