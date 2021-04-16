@@ -16,21 +16,18 @@
     {{ range .Site.Menus.main }}
       {{ if .HasChildren }}
           <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
-              <a href="{{ .URL | safeURL | relURL }}">{{ .Pre }}<span>{{ .Name }}</span></a>
+              {{ partial "menu-url-wrapper.html" . }}
           </li>
           <ul class="sub-menu">
               {{ range .Children }}
-                  <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
-                      <a href="{{ .URL | safeURL | relURL }}">{{ .Name }}</a>
-                  </li>
+                  <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">{{ partial "menu-url-wrapper.html" . }}</li>
               {{ end }}
           </ul>
       {{ else }}
-          <li><a href="{{ .URL | safeURL |relURL }}">{{ .Pre }}<span>{{ .Name }}</span></a></li>
+	      <li>{{ partial "menu-url-wrapper.html" . }}</li>
       {{ end }}
     {{ end }}
-
     </br>
-    {{partial "i18n.html" . }}
+    {{ partial "i18n.html" . }}
   </ul></nav>
 </aside>

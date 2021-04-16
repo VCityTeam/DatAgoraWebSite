@@ -36,25 +36,25 @@ sectionPagesMenu = "main"
 
 [Menus]
   main = [
-    { Name = "Principles", URL = "/Principles.html", weight=1},
-    { Name = "Methodology",    URL = "/Our-methodology.html", weight=2},
-    { Name = "Data & XP", URL = "/Données-et-Expérimentations.html", weight=3},
-    { Name = "Data & Components", URL = "/Components.html", weight=4},
-    { Name = "Data & Agora", URL = "/Agora.html", weight=5},
+    { Name = "Principles", URL = "Principles", weight=1},
+    { Name = "Methodology",    URL = "Our-methodology", weight=2},
+    { Name = "Data & XP", URL = "Données-et-Expérimentations", weight=3},
+    { Name = "Data & Components", URL = "Components", weight=4},
+    { Name = "Data & Agora", URL = "Agora", weight=5},
 
-    { Identifier = "fos", Name = "Field of studies", URL = "/Field-of-studies.html", weight=10},
-    #{ Parent = "fos", Name = "Game, mediation and public space", URL = "/Game-mediation-and-public-space.html", weight=1},
-    #{ Parent = "fos", Name = "Analysis of urban mobility flows", URL = "/Analysis-of-urban-mobility-flows.html", weight=2},
-    #{ Parent = "fos", Name = "Search in a documentary corpora", URL = "/Search-in-documentary-corpora.html", weight=3},
-    #{ Parent = "fos", Name = "Observations of the exchanges", URL = "/Observations-of-the-exchanges.html", weight=4},
+    { Identifier = "fos", Name = "Field of studies", URL = "Field-of-studies", weight=10},
+    #{ Parent = "fos", Name = "Game, mediation and public space", URL = "Game-mediation-and-public-space", weight=1},
+    #{ Parent = "fos", Name = "Analysis of urban mobility flows", URL = "Analysis-of-urban-mobility-flows", weight=2},
+    #{ Parent = "fos", Name = "Search in a documentary corpora", URL = "Search-in-documentary-corpora", weight=3},
+    #{ Parent = "fos", Name = "Observations of the exchanges", URL = "Observations-of-the-exchanges", weight=4},
     
-    { Name = "About us", URL = "/About.html", weight=20},
-    { Name = "Partners", URL = "/Partners.html", weight=21},
-    { Name = "Contact", URL = "/Contact.html", weight=22},
-    { Name = "Open positions", URL = "/Positions.html", weight=23},
+    { Name = "About us", URL = "About", weight=20},
+    { Name = "Partners", URL = "Partners", weight=21},
+    { Name = "Contact", URL = "Contact", weight=22},
+    { Name = "Open positions", URL = "Positions", weight=23},
 
-    #{ Name = "Geonum 2020", Identifier = "geonum_20", URL = "/fr/geonum_20/Projet_Geonum_20.html", weight=1000},
-    #{ Name = "Végétaliser urbain", Identifier = "geonum_20_vegurban", Parent = "geonum_20", URL = "/fr/geonum_20/Végétaliser_urbain.html", weight=1}
+    #{ Name = "Geonum 2020", Identifier = "geonum_20", URL = "fr/geonum_20/Projet_Geonum_20", weight=1000},
+    #{ Name = "Végétaliser urbain", Identifier = "geonum_20_vegurban", Parent = "geonum_20", URL = "fr/geonum_20/Végétaliser_urbain", weight=1}
   ]
 
 
