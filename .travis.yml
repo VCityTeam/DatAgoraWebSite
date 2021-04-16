@@ -38,7 +38,7 @@ script:
   # characters (/) that would interfere with the sed expression once
   # substituted (by the shell)
   - sed --in-place -e "s|^baseURL\(.*\)|baseURL=\"$TARGET_URL\"|" config.toml
-  - hugo
+  - hugo --minify
 
 deploy:
   - provider: script
