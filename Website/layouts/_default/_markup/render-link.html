@@ -14,7 +14,7 @@
 		{{ else }}
 			{{/* workaround for broken crosslang links */}}
 			{{/* TODO: workaround for default lang */}}
-			{{ if (not (path.Ext $link))  }}{{ $link = printf "%s%s.html" .Page.Dir (lower $link) }}{{ end }}
+			{{ if (not (path.Ext $link)) }}{{ $link = printf "%s%s%s.html" site.Site.BaseURL .Page.File.Dir (lower $link) }}{{ end }}
 		{{ end }}
 	{{ end }}
 {{ end }}
