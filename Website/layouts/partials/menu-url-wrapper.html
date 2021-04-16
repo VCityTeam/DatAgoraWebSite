@@ -1,0 +1,7 @@
+{{ $url := .URL }}
+{{ $name := .Name }}
+{{ with site.GetPage "/" }}
+    {{ .Page.RenderString (printf "[%s](%s)" $name $url) }}
+{{ else }}
+    <a href="{{ .URL | safeURL |relURL }}">{{ .Pre }}<span>{{ .Name }}</span></a>
+{{ end }}
