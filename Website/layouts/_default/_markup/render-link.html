@@ -1,4 +1,21 @@
-<!-- Createing a render-link.html with the following content -->
-<!-- is a trick described by this post                       -->
-<!-- https://agrimprasad.com/post/hugo-goldmark-markdown/    -->
-<a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank"{{ end }}>{{ .Text }}</a>
+<!-- https://github.com/bep/portable-hugo-links -->
+{{ $tmp := "" }}
+
+{{ $link := .Destination }}
+{{ $isRemote := strings.HasPrefix $link "http" }}
+{{ if not $isRemote }}
+	{{ $url := urls.Parse .Destination }}
+	{{ if $url.Path }}
+		{{ $tmp = $url.Path }}
+		{{ $fragment := "" }}
+		{{ with $url.Fragment }}{{ $fragment = printf "#%s" . }}{{ end }}
+		{{ with .Page.GetPage $url.Path }}
+			{{ $link = printf "%s%s" .RelPermalink $fragment }}
+		{{ else }}
+			{{/* workaround for broken crosslang links */}}
+			{{/* TODO: workaround for default lang */}}
+			{{ if (not (path.Ext $link))  }}{{ $link = printf "%s%s.html" .Page.Dir (lower $link) }}{{ end }}
+		{{ end }}
+	{{ end }}
+{{ end }}
+<a href="{{ $link | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if $isRemote }} target="_blank"{{ end }}>{{ .Text | safeHTML }}</a>
