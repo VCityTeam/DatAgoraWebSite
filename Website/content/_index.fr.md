@@ -7,7 +7,7 @@
 
 
 ### Contexte
-![](/Home.png)
+![](/StateOfArt/ScreenWall.jpg)
 La prise de décision politique, économique ou sociale doit de plus en plus s'appuyer sur des données tout en mobilisant une approche interdisciplinaire. Le volume des données reste bien sûr un défi (données de grande taille) mais la nature multi-sources est également importante pour trouver le bon ensemble de données, l'associer à celles qui existent déjà et l'enrichir avec une modélisation et un apprentissage adaptés à un domaine donné. Il s'agit d'un défi scientifique, technique, organisationnel et humain. La complexité et la diversité des données signifient également que nous devons atteindre une échelle appropriée en termes de traitement, de visualisation et de capacités de collaboration autour de ces données. Ainsi, des initiatives ont déjà été proposées dans le passé, à l'échelle internationale, mais aussi en France, pour créer des lieux dédiés aux données et à leurs représentations. Il s'agit généralement de très grandes infrastructures. 
 Dans l'approche proposée ici, nous mobilisons les données dans des processus d'aide à la décision, qui nécessitent une compréhension et une contextualisation préalables. A court terme, nous voulons créer un nouveau lieu de rencontre local autour des données. Contrairement aux approches proposées dans CAVE (environnements immersifs), nous choisissons de travailler sur des dispositifs peu coûteux qui peuvent être facilement dupliqués en plusieurs endroits, et installés rapidement de manière simple. 
 

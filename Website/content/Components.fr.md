@@ -26,6 +26,12 @@ Le dispositif technique est composé de plusieurs éléments, à commencer par l
 
 Collaboration avec Didier Chanfray ([LabEx IMU](https://imu.universite-lyon.fr/))
 
+### Mur d'écrans
+
+
+![Mur d'écrans](/Doc_Devices/ASLAN_Device_1.jpg)
+
+Le dispositif est composé de 4 écrans capales d'agir comme des écrans indépendants ou comme un unique écran géant. Grâce à l'environnement SAGE2, il est possible de connecter plusieurs utilisateurs sur place et à distance pour travailler simultanément dans un même espace de travail.
 
 ***
 
@@ -34,9 +40,7 @@ Collaboration avec Didier Chanfray ([LabEx IMU](https://imu.universite-lyon.fr/)
 ### Legonizer
 Ce module utilise Unity pour fournir un modèle 3D et des instructions de construction pour une représentation voxel d'un objet 3D personnalisé choisi par l'utilisateur.
 [En savoir plus](Legonizer_module)
-<p style="text-align:center;">
-<img src="/Doc/legonizer.png" alt="Home" width="500"/>
-</p>
+![](/Doc/legonizer.png)
 
 [Code Source](https://github.com/VCityTeam/DatAgora/tree/master/Lego-city-counter)
 ***
@@ -44,9 +48,7 @@ Ce module utilise Unity pour fournir un modèle 3D et des instructions de constr
 Ce module analyse les données urbaines CityGML. Il rend la ville en 3D sur Unity afin que vous puissiez la visualiser. Le fichier gml est transformé en objet avec toutes les données nécessaires à la création de la ville dans la Scène. Ensuite une triangulation est faite pour construire la ville.
 [En savoir plus](Unity_GML_Parser_module)
 
-<p style="text-align:center;">
-<img src="/Doc/CityBlock.PNG" alt="Home" width="500"/>
-</p>
+![](/Doc/CityBlock.PNG)
 
 [Code Source](https://github.com/VCityTeam/DatAgora)
 ***
@@ -55,9 +57,7 @@ Reconnaissance de rectangles bleus (Bâtiments) et transformation en 3D sur Unit
 
 [En savoir plus](Mire_module)
 
-<p style="text-align:center;">
-<img src="/Doc/CaptureMire2.PNG" alt="Home" width="500"/>
-</p>
+![](/Doc/CaptureMire2.PNG)
 
 [Code Source](https://github.com/VCityTeam/DatAgora/tree/master/RecognitionCity)
 ***
@@ -65,9 +65,7 @@ Reconnaissance de rectangles bleus (Bâtiments) et transformation en 3D sur Unit
 Un outil web pour visualiser et interagir avec des couches de données personnalisées.
 [En savoir plus](Data_Viewer_Module)
 
-<p style="text-align:center;">
-<img src="/Doc/UD-Viz_vue.png" alt="Home" width="500"/>
-</p>
+![](/Doc/UD-Viz_vue.png)
 
 [Code Source](https://github.com/VCityTeam/UD-Viz)
 

@@ -25,6 +25,12 @@ The technical device is made up of several elements, starting with the table in 
 
 Collaboration with Didier Chanfray ([LabEx IMU](https://imu.universite-lyon.fr/))
 
+### Screenwall
+
+
+![Mur d'écrans](/Doc_Devices/ASLAN_Device_1.jpg)
+
+The device is composed of 4 screens that can act as independent screens or as a single large screen. Thanks to the SAGE2 environment, it is possible to connect several users on site and remotely to work simultaneously in the same workspace.
 
 ***
 
@@ -33,10 +39,7 @@ Collaboration with Didier Chanfray ([LabEx IMU](https://imu.universite-lyon.fr/)
 ### Legonizer
 This module uses Unity to provide a 3D model and building instructions for a voxel representation of a custom 3D object chosen by the user.
 
-[Learn more](Legonizer_module)
-<p style="text-align:center;">
-<img src="Doc/legonizer.png" alt="Home" width="500"/>
-</p>
+![](/Doc/legonizer.png)
 
 [Source Code](https://github.com/VCityTeam/DatAgora/tree/master/Lego-city-counter)
 ***
@@ -45,9 +48,7 @@ This module parse the urban data CityGML. It make the city in 3D on Unity so you
 
 [Learn more](Unity_GML_Parser_module)
 
-<p style="text-align:center;">
-<img src="Doc/CityBlock.PNG" alt="Home" width="500"/>
-</p>
+![](/Doc/CityBlock.PNG)
 
 [Source Code](https://github.com/VCityTeam/DatAgora)
 ***
@@ -57,9 +58,7 @@ Recognition of blue rectangles (Buildings) and transform it in 3D on Unity. This
 
 [Learn more](Mire_module)
 
-<p style="text-align:center;">
-<img src="Doc/CaptureMire2.PNG" alt="Home" width="500"/>
-</p>
+![](/Doc/CaptureMire2.PNG)
 
 [Source code](https://github.com/VCityTeam/DatAgora/tree/master/RecognitionCity)
 ***
@@ -68,9 +67,7 @@ A web tool to visualize and interact with custom data layers.
 
 [Learn more](Data_Viewer_Module)
 
-<p style="text-align:center;">
-<img src="Doc/UD-Viz_vue.png" alt="Home" width="500"/>
-</p>
+![](/Doc/UD-Viz_vue.png)
 
 [Source code](https://github.com/VCityTeam/UD-Viz)
 
