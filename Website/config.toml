@@ -27,37 +27,40 @@ sectionPagesMenu = "main"
     languageName = "English"
     #languageCode = "en-us"
     weight = 1
+  
   [Languages.fr]
     title = "DatAgora FR"
     languageName = "Français"
     #languageCode = "fr-fr"
     contentDir = "content/fr"
     weight = 2
+  
 
 [Menus]
   main = [
-    { Name = "Principles", URL = "Principles", weight=1},
-    { Name = "Methodology",    URL = "Our-methodology", weight=2},
-    { Name = "Data & XP", URL = "Données-et-Expérimentations", weight=3},
-    { Name = "Data & Components", URL = "Components", weight=4},
-    { Name = "Data & Agora", URL = "Agora", weight=5},
-
-    { Identifier = "fos", Name = "Field of studies", URL = "Field-of-studies", weight=10},
-    #{ Parent = "fos", Name = "Game, mediation and public space", URL = "Game-mediation-and-public-space", weight=1},
-    #{ Parent = "fos", Name = "Analysis of urban mobility flows", URL = "Analysis-of-urban-mobility-flows", weight=2},
-    #{ Parent = "fos", Name = "Search in a documentary corpora", URL = "Search-in-documentary-corpora", weight=3},
-    #{ Parent = "fos", Name = "Observations of the exchanges", URL = "Observations-of-the-exchanges", weight=4},
-    
-    { Name = "About us", URL = "About", weight=20},
-    { Name = "Partners", URL = "Partners", weight=21},
-    { Name = "Contact", URL = "Contact", weight=22},
-    { Name = "Open positions", URL = "Positions", weight=23},
-
-    #{ Name = "Geonum 2020", Identifier = "geonum_20", URL = "fr/geonum_20/Projet_Geonum_20", weight=1000},
-    #{ Name = "Végétaliser urbain", Identifier = "geonum_20_vegurban", Parent = "geonum_20", URL = "fr/geonum_20/Végétaliser_urbain", weight=1}
+	  	  { Name = "Principles", URL = "Principles", weight=1},
+	  	  { Name = "Methodology",    URL = "Our-methodology", weight=2},
+	  	  { Name = "Data & XP", URL = "Données-et-Expérimentations", weight=3},
+	  	  { Name = "Data & Components", URL = "Components", weight=4},
+	  	  { Name = "Data & Agora", URL = "Agora", weight=5},
+	  	  { Identifier = "fos", Name = "Field of studies", URL = "Field-of-studies", weight=6},
+	  	  { Name = "About us", URL = "About", weight=7},
+	  	  { Name = "Partners", URL = "Partners", weight=8},
+	  	  { Name = "Contact", URL = "Contact", weight=9},
+	  	  { Name = "Open positions", URL = "Positions", weight=10},
   ]
-
-
+  mainfr = [
+	  	  { Name = "Principes", URL = "Principles", weight=1},
+	  	  { Name = "Methodologie",    URL = "Our-methodology", weight=2},
+	  	  { Name = "Données & XP", URL = "Données-et-Expérimentations", weight=3},
+	  	  { Name = "Données & Composants", URL = "Components", weight=4},
+	  	  { Name = "Données & Agora", URL = "Agora", weight=5},
+	  	  { Identifier = "fos", Name = "Champs d'étude", URL = "Field-of-studies", weight=6},
+	  	  { Name = "Qui sommes nous?", URL = "About", weight=7},
+	  	  { Name = "Partenaires", URL = "Partners", weight=8},
+	  	  { Name = "Contact", URL = "Contact", weight=9},
+	  	  { Name = "Postes à pourvoir", URL = "Positions", weight=10},
+  ]
 
 # Notes: it seems that the now default markdown handler (goldmark) can NOT be
 # configured to avoid the rendering of a plain ASCII single quote (in the

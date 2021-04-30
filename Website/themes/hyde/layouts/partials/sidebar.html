@@ -9,25 +9,54 @@
       <a href="https://www.universite-lyon.fr/">
         <img src="https://www.universite-lyon.fr/uas/ksup/LOGO2/logoUdlBlanc.svg" alt="">
       </a>
-      <a href="{{ .Site.BaseURL }}"><h1>{{ .Site.Title }}</h1></a>
+	  {{ if eq .Site.Language.LanguageName "Français" }}
+		<a href="{{ .Site.BaseURL }}fr/"><h1>{{ .Site.Title }}</h1></a>
+	  {{else}}
+	    <a href="{{ .Site.BaseURL }}"><h1>{{ .Site.Title }}</h1></a>
+	  {{end}}
   </div>
-  <nav><ul class="sidebar-nav">
+  
+  <nav>
+  <ul class="sidebar-nav">
     {{ $currentPage := . }}
-    {{ range .Site.Menus.main }}
-      {{ if .HasChildren }}
-          <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
-              {{ partial "menu-url-wrapper.html" . }}
-          </li>
-          <ul class="sub-menu">
-              {{ range .Children }}
-                  <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">{{ partial "menu-url-wrapper.html" . }}</li>
-              {{ end }}
-          </ul>
-      {{ else }}
-	      <li>{{ partial "menu-url-wrapper.html" . }}</li>
-      {{ end }}
-    {{ end }}
+	
+		{{ if eq .Site.Language.LanguageName "Français" }}
+			{{ range .Site.Menus.mainfr }}
+			  {{ if .HasChildren }}
+				  <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+					  {{ partial "menu-url-wrapper.html" . }}
+				  </li>
+				  <ul class="sub-menu">
+					  {{ range .Children }}
+						  <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">{{ partial "menu-url-wrapper.html" . }}</li>
+					  {{ end }}
+				  </ul>
+			  {{ else }}
+				  <li>{{ partial "menu-url-wrapper.html" . }}</li>
+			  {{ end }}
+			{{ end }}
+			
+		{{else}}
+			{{ range .Site.Menus.main }}
+			  {{ if .HasChildren }}
+				  <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+					  {{ partial "menu-url-wrapper.html" . }}
+				  </li>
+				  <ul class="sub-menu">
+					  {{ range .Children }}
+						  <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">{{ partial "menu-url-wrapper.html" . }}</li>
+					  {{ end }}
+				  </ul>
+			  {{ else }}
+				  <li>{{ partial "menu-url-wrapper.html" . }}</li>
+			  {{ end }}
+			{{ end }}
+		{{end}}
     </br>
+	<div style ='position:absolute;bottom:0;'>
     {{ partial "i18n.html" . }}
-  </ul></nav>
+	</div>
+  </ul>
+  </nav>
+  
 </aside>
