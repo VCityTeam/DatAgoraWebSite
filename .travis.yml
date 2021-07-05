@@ -22,7 +22,7 @@ before_script:
   # Requiring a [d|r]ecent version of Hugo
   # References:
   #  - For the Travis phase within the job lifecycle
-  #    https://docs.travis-ci.com/user/installing-dependencies/
+  #    https://docs.travis-ci.com/user/job-lifecycle/
   #  - For the Hugo install process
   #    https://www.howtoforge.com/how-to-install-hugo-site-generator-on-ubuntu/
   - wget https://github.com/gohugoio/hugo/releases/download/v0.74.3/hugo_0.74.3_Linux-64bit.deb
@@ -46,3 +46,7 @@ deploy:
     skip_cleanup: true
     on:
       branch: master
+
+after_deploy:
+  - pip3 install git+https://github.com/linkchecker/linkchecker.git
+  - linkchecker "$TARGET_URL"
