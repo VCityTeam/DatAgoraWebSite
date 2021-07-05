@@ -49,4 +49,4 @@ deploy:
 
 after_deploy:
   - pip3 install git+https://github.com/linkchecker/linkchecker.git
-  - linkchecker "$TARGET_URL"
+  - linkchecker "$TARGET_URL" || travis_terminate 1
