@@ -40,7 +40,7 @@ sectionPagesMenu = "main"
   main = [
 	  	  { Name = "Principles", URL = "Principles", weight=1},
 	  	  { Name = "Methodology",    URL = "Our-methodology", weight=2},
-	  	  { Name = "Data & XP", URL = "Données-et-Expérimentations", weight=3},
+	  	  { Name = "Data & XP", URL = "Donnees-et-Experimentations", weight=3},
 	  	  { Name = "Data & Components", URL = "Components", weight=4},
 	  	  { Name = "Data & Agora", URL = "Agora", weight=5},
 	  	  { Identifier = "fos", Name = "Field of studies", URL = "Field-of-studies", weight=6},
@@ -52,7 +52,7 @@ sectionPagesMenu = "main"
   mainfr = [
 	  	  { Name = "Principes", URL = "Principles", weight=1},
 	  	  { Name = "Methodologie",    URL = "Our-methodology", weight=2},
-	  	  { Name = "Données & XP", URL = "Données-et-Expérimentations", weight=3},
+	  	  { Name = "Données & XP", URL = "Donnees-et-Experimentations", weight=3},
 	  	  { Name = "Données & Composants", URL = "Components", weight=4},
 	  	  { Name = "Données & Agora", URL = "Agora", weight=5},
 	  	  { Identifier = "fos", Name = "Champs d'étude", URL = "Field-of-studies", weight=6},

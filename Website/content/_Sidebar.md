@@ -1,8 +1,8 @@
-DatAgora 
+DatAgora
  - [[Page d'accueil/ Main page | https://github.com/VCityTeam/DatAgora/wiki]]
  - [[Principes et fonctionnement de DatAgora/ DatAgora principle |DatAgora-principle]]
  - [[Données et composants techniques/ Data and technical components|Components]]
- - [[Données et Expérimentations / Experimentations|Donn%C3%A9es-et-Exp%C3%A9rimentations]]
+ - [[Données et Expérimentations / Experimentations|Donnees-et-Experimentations]]
  - [[Données et Agora / Data and Agora|Donnees-et-Agora]]
  - [[Field of studies / Champs d'étude|Field-of-studies]]
    - [[Game, mediation and public space / Jeu, médiation et espace public|Game-mediation-and-public-space]]
