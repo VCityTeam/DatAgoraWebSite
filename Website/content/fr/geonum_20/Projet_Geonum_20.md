@@ -97,7 +97,7 @@ IV. Résultats
 
        1. [Enjeux, limites, critiques](Enjeux_limites_critiques)
        1. [Inclure la variable Z](Variable_Z)
-       1. [Les pistes non explorées](Pistes_non_explorées)
+       1. [Les pistes non explorées](Pistes_non_explorees)
    
    
 V. [Visualisation des données](Visualisation_donnee)

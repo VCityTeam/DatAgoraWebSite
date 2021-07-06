@@ -75,4 +75,4 @@ Toutefois, cette approche présente quelques limites. En effet, peu d’études 
 
 [Page précédente - IV.2.i - Enjeux, limites, critiques](Enjeux_limites_critiques)
 
-[Page suivante - IV.2.iii - Les pistes non explorées](Pistes_non_explorées)
+[Page suivante - IV.2.iii - Les pistes non explorées](Pistes_non_explorees)

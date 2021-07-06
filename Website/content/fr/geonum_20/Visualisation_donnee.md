@@ -17,6 +17,6 @@ C'est pourquoi nous avons décidé d'utiliser la visualisation 3d sur QGIS, afin
 
 
 
-[Page précédente - IV.2.iii - Les pistes non explorées](Pistes_non_explorées)
+[Page précédente - IV.2.iii - Les pistes non explorées](Pistes_non_explorees)
 
 [Page suivante - Ressources bibliographiques](Bibliographie)
