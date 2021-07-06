@@ -17,6 +17,6 @@ Suite à ces premières pistes, nous nous sommes questionnés sur les méthodes 
 
 ![](Espaces_Dispo_Sous_sol.jpg)
 
-[Page précédente - I.4.ii - Mise en place d’une problématique](Problématique)
+[Page précédente - I.4.ii - Mise en place d’une problématique](Problematique)
 
 [Page suivante - II.1 - Récupération des données](Recuperation_donnees)

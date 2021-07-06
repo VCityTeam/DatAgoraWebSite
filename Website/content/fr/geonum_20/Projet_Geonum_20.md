@@ -59,13 +59,13 @@ Notre sujet d'étude est celui de [La place de la végétation dans la ville](/V
    
        1. [Description du projet](Description_projet)
        2. [Le terrain d'étude](Territoire_etude)
-       3. [Pourquoi végétaliser l’espace urbain ?](Végétaliser_urbain)
+       3. [Pourquoi végétaliser l’espace urbain ?](Vegetaliser_urbain)
         
-   4. [Caractérisation du projet](Caractérisation_projet)
+   4. [Caractérisation du projet](Caracterisation_projet)
    
        1. [Comment prospecter ?](Prospection)
-       1. [Mise en place d’une problématique](Problématique)
-       1. [Pistes de réflexion](Réflexions)
+       1. [Mise en place d’une problématique](Problematique)
+       1. [Pistes de réflexion](Reflexions)
        
        
        

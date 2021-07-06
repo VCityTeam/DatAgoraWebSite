@@ -59,4 +59,4 @@ La végétalisation est porteuse de nombreux avantages. En général, végétali
 
 [Page précédente - I.3.ii - Le terrain d\'étude](territoire_etude)
 
-[Page suivante - I.4 - Caractérisation du projet](Caractérisation_projet)
+[Page suivante - I.4 - Caractérisation du projet](Caracterisation_projet)

@@ -14,6 +14,6 @@ Lorsque l’on fait de la prospection à travers un outil SIG, il est indispensa
 Cette exploration méthodologique nous as permis ensuite de dégager plusieurs problématiques pour ce projet.
 
 
-[Page précédente - I.4 - Caractérisation du projet](Caractérisation_projet)
+[Page précédente - I.4 - Caractérisation du projet](Caracterisation_projet)
 
-[Page suivante - I.4.ii - Mise en place d’une problématique](Problématique)
+[Page suivante - I.4.ii - Mise en place d’une problématique](Problematique)

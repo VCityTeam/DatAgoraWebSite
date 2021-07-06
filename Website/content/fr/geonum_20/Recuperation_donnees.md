@@ -8,6 +8,6 @@ Nous détaillons ici les différentes bases utilisées :
 
 * [Tableau des données](tableau_donnees)
 
-[Page précédente - I.4.iii - Pistes de réflexion](Réflexions)
+[Page précédente - I.4.iii - Pistes de réflexion](Reflexions)
 
 [Page suivante - II.1.i - Les données disponibles en Open Source](Donnees_opensource)

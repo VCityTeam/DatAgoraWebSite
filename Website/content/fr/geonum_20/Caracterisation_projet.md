@@ -6,10 +6,10 @@ Puis, nous nous sommes rendus compte que même en ayant à disposition ces donn�
 
 En faisant ce travail, nous nous sommes rendus compte que nous faisions de la prospection. Il nous a donc semblé utile de faire un point sur [ce sujet](Prospection).
 
-La réalisation de cette méthodologie a fait émerger plusieurs problématiques que vous trouverez [ici](Problématique).
+La réalisation de cette méthodologie a fait émerger plusieurs problématiques que vous trouverez [ici](Problematique).
 
-Enfin, vous pouvez retrouver notre réflexion autour l'exploitation de l'espace disponible en ville en surface et en sous-sol [juste ici](Réflexions).
+Enfin, vous pouvez retrouver notre réflexion autour l'exploitation de l'espace disponible en ville en surface et en sous-sol [juste ici](Reflexions).
 
-[Page précédente - I.3.iii - Pourquoi végétaliser dans l’espace urbain ?](Végétaliser_urbain)
+[Page précédente - I.3.iii - Pourquoi végétaliser dans l’espace urbain ?](Vegetaliser_urbain)
 
 [Page suivante - I.4.i - Comment prospecter ?](Prospection)
