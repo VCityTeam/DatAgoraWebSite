@@ -11,10 +11,8 @@ Laboratoire : LIRIS CNRS UMR 5205, campus de la Doua, Bâtiment Nautibus
 ## Contexte
 DatAgora est un projet financé par l’IDEX dans le cadre de l’appel à projet "IA et donnée". Ici, nous mobilisons les données dans des processus d’aide à la décision, qui nécessitent une compréhension et une contextualisation préalables. A court terme, en collaboration avec la métropole de Lyon, nous voulons créer un nouveau lieu de rencontre local autour des données. Les dispositifs que nous choisissons de mettre en place doivent être peu coûteux et ainsi peuvent être facilement dupliqués en plusieurs endroits, et installés rapidement de manière simple. Tout ceci, combiné à une pratique de documentation en continu, a conduit à la création d’un site web dédié regroupant toutes les informations qui ont pu être produites dans le cadre du projet DatAgora.
 
-<p float="left">
-<img src="PartDieuModel/Model1.jpg" alt="Home" width="400"/>
-<img src="PartDieuModel/Model2.jpg" alt="Home" width="400"/>
-</p>
+![PartDieuModel1](PartDieuModel/Model1.jpg)
+![PartDieuModel2](PartDieuModel/Model2.jpg)
 
 ## Projets autour de DatAgora
 Ces projets sont proposés au sein de master 1 en informatique de L'université Claude Bernard. Néanmoins, des stages restent possibles sur des sujets connexes. 
