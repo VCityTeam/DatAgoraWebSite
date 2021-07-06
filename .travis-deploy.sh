@@ -3,6 +3,7 @@ set -x
 
 echo -e "\033[0;32mDeploying DatAgora website to liris web host...\033[0m"
 cd $TRAVIS_BUILD_DIR/Website
+ls -R public/ | wc
 
 # Make sure not to leave previously uploaded content by wiping out all 
 # previous uploaded content:
