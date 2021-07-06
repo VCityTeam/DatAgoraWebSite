@@ -49,7 +49,7 @@ Enfin, certains espaces répertoriées se révèlent finalement inexploitables :
 
 <img align="center" src="I5.png">
 
-Ces zones, qui font partie du masque, ne sont pas disponibles car de nouveaux bâtis, entrepôts, ou autres constructions ont vu le jour récemment. Cela s'explique par le fait qu’on exploite de nombreuses données, et que parmi ces données certaines se révèlent d’une fiabilité douteuse ([voir les limites](https://github.com/VCityTeam/DatAgora_/wiki/Enjeux_limites_critiques)). 
+Ces zones, qui font partie du masque, ne sont pas disponibles car de nouveaux bâtis, entrepôts, ou autres constructions ont vu le jour récemment. Cela s'explique par le fait qu’on exploite de nombreuses données, et que parmi ces données certaines se révèlent d’une fiabilité douteuse ([voir les limites](Enjeux_limites_critiques)). 
 
 ***
 

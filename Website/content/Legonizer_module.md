@@ -16,5 +16,5 @@ When you are satisfied with the appearence of your model, you can export csv ins
 
 # Download & Instructions
 
-You can download this module [here](https://github.com/VCityTeam/DatAgora/tree/master/Lego-city-counter).
+You can download this module [here](https://github.com/VCityTeam/UD-Legonizer).
 You will find detailled instructions to help you use the project and get results easily.

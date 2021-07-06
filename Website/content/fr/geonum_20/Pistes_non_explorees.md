@@ -11,7 +11,7 @@ Pour exploiter les données souterraines, il s’agirait d’utiliser les DICT (
 
 Par ailleurs, les DICT ne sont pas des jeux de données Open Source, il s’agit donc de les payer.
 
-Enfin, les réponses des exploitants de réseaux sont envoyées au format PDF. Il est nécessaire de passer par le logiciel AutoCAD pour récupérer le format DXF, un format qui permet de vectoriser le PDF et de pouvoir importer les lignes de réseau dans un logiciel SIG par la suite (voir [les données privées](https://github.com/VCityTeam/DatAgora_/wiki/donnee_prive)). L’exploitation de ces données à l’échelle d’un quartier nécessite un immense travail en termes de temps. 
+Enfin, les réponses des exploitants de réseaux sont envoyées au format PDF. Il est nécessaire de passer par le logiciel AutoCAD pour récupérer le format DXF, un format qui permet de vectoriser le PDF et de pouvoir importer les lignes de réseau dans un logiciel SIG par la suite (voir [les données privées](donnees_privees)). L’exploitation de ces données à l’échelle d’un quartier nécessite un immense travail en termes de temps. 
 
 ## L’exploitation des bâtis : façades, toits 
 

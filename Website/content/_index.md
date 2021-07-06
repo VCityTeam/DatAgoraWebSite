@@ -7,7 +7,7 @@
 
 
 ### Context
-![](/StateOfArt/ScreenWall.jpg)
+![](StateOfArt/ScreenWall.jpg)
 Political, economic or social decision-making increasingly needs to be based on data while mobilizing an interdisciplinary approach. Data volume remains of course a challenge (big data) but the multi-source nature is also important in order to find the right set of data, associate it with existing ones and enrich it with modelling and learning adapted to a given field. This is a scientific, technical, organizational and human challenge. The complexity and diversity of the data also means that we need to reach an appropriate scale in terms of processing, visualization and collaboration capabilities around such data. In this way, initiatives have been already proposed in the past, internationally, but also in France, to create places dedicated to data and their representations. These are generally very large infrastructures. 
 In the approach proposed here, we mobilize data in decision support processes, which require prior understanding and contextualization. In a short terme, we want to create a new local meeting place around data. Contrary to the approaches proposed in CAVE (immersive environments), we choose to work on low-cost devices that can be easily duplicated on several place, and installed quickly in an easy way. 
 

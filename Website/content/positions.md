@@ -35,7 +35,7 @@ Si les étudiants ont assez de temps : capter le nombres de personnes autour de 
 Contexte : Construction d'une maquette légo à partir de données géospatiales 3D
 Domaine : 3D, modélisation géométrique, rendu 
 Récupérer de la donnée géographique pour la transformer en représentations en légo. 
-Ref : [legonizer](https://github.com/VCityTeam/DatAgora/tree/master/Lego-city-counter)
+Ref : [legonizer](https://github.com/VCityTeam/UD-Legonizer)
     * Parser XML
     * Polygonalisation de la donnée
     * Lancer de rayon

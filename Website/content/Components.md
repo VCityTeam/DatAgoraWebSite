@@ -8,7 +8,7 @@
 
 # Stations presentation
 
-We propose a variety of stations to help fullfil the needs we encountered during our projects. We have developped them with our partners and documented them to provide both use and replication instructions. 
+We propose a variety of stations to help fullfil the needs we encountered during our projects. We have developped them with our partners and documented them to provide both use and replication instructions.
 
 ## Physical stations
 
@@ -41,7 +41,7 @@ This module uses Unity to provide a 3D model and building instructions for a vox
 
 ![](/Doc/legonizer.png)
 
-[Source Code](https://github.com/VCityTeam/DatAgora/tree/master/Lego-city-counter)
+[Source Code](https://github.com/VCityTeam/UD-Legonizer)
 ***
 ### City block
 This module parse the urban data CityGML. It make the city in 3D on Unity so you can visualize it. The gml file is transform in object with all data needed for the creation of teh city in the Scene. Then a triangulation is make to build the city.<br>
@@ -60,7 +60,7 @@ Recognition of blue rectangles (Buildings) and transform it in 3D on Unity. This
 
 ![](/Doc/CaptureMire2.PNG)
 
-[Source code](https://github.com/VCityTeam/DatAgora/tree/master/RecognitionCity)
+[Source code](https://github.com/VCityTeam/UD-Mire)
 ***
 ### Data Viewer
 A web tool to visualize and interact with custom data layers.

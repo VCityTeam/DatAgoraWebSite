@@ -42,7 +42,7 @@ Ce module utilise Unity pour fournir un modèle 3D et des instructions de constr
 [En savoir plus](Legonizer_module)
 ![](/Doc/legonizer.png)
 
-[Code Source](https://github.com/VCityTeam/DatAgora/tree/master/Lego-city-counter)
+[Code Source](https://github.com/VCityTeam/UD-Legonizer)
 ***
 ### City block
 Ce module analyse les données urbaines CityGML. Il rend la ville en 3D sur Unity afin que vous puissiez la visualiser. Le fichier gml est transformé en objet avec toutes les données nécessaires à la création de la ville dans la Scène. Ensuite une triangulation est faite pour construire la ville.
@@ -59,7 +59,7 @@ Reconnaissance de rectangles bleus (Bâtiments) et transformation en 3D sur Unit
 
 ![](/Doc/CaptureMire2.PNG)
 
-[Code Source](https://github.com/VCityTeam/DatAgora/tree/master/RecognitionCity)
+[Code Source](https://github.com/VCityTeam/UD-Mire)
 ***
 ### Data Viewer
 Un outil web pour visualiser et interagir avec des couches de données personnalisées.

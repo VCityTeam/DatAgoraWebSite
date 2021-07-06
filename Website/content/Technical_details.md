@@ -13,7 +13,7 @@
 
 
 ## Features
-We downloaded the open data of the [3rd arrondissement](https://data.grandlyon.com/jeux-de-donnees/maquette-3d-texturee-lyon-3e-arrondissement-metropole-lyon/info) of Lyon in GML file. Then with the module [CityGML](https://github.com/VCityTeam/DatAgora/tree/master/CityGML) we integrate this data in Unity to visualize it.
+We downloaded the open data of the [3rd arrondissement](https://data.grandlyon.com/jeux-de-donnees/maquette-3d-texturee-lyon-3e-arrondissement-metropole-lyon/info) of Lyon in GML file. Then with the module [CityGMLParser](https://github.com/VCityTeam/UD-CityGMLParser) we integrate this data in Unity to visualize it.
 
 <p float="left">
 <img src="PartDieuModel/Model1.jpg" alt="Home" width="400"/>
@@ -30,7 +30,7 @@ During the first use of these modules we have prototyped different models by cha
 </p>
 
 ## Illustrations
-[Illustrations sources](https://github.com/VCityTeam/DatAgora/blob/master/Docs/Mockup_Part%20Dieu.pdf)<br>
+[Illustrations sources](Mockup_PartDieu.pdf)<br>
 
 <p float="left">
 <img src="PartDieuModel/erasme-imu.png" width="500">
