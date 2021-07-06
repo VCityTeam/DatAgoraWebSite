@@ -48,5 +48,9 @@ deploy:
       branch: master
 
 after_deploy:
-  - pip3 install git+https://github.com/linkchecker/linkchecker.git
-  - linkchecker "$TARGET_URL" || travis_terminate 1
+  # Using LinkChecker
+  #- pip3 install git+https://github.com/linkchecker/linkchecker.git
+  #- linkchecker "$TARGET_URL" || travis_terminate 1
+  # Using broken-link-checker
+  - npm install broken-link-checker -g
+  - blc -ro --exclude 'assetstore.unity.com' "$TARGET_URL" || travis_terminate 1
