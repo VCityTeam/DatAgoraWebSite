@@ -41,7 +41,7 @@ The `[Menus]` section contains a set of objects (per language) describing the li
 The `Name`, `URL` and `weight` fields of the objects respectively set the text, URL and order of the links.
 
 There are multiple way to build navigation menus, more or less customizable.
-More insight of our particular implementation is available in the `layouts/partials/section-menu.html` source file.
+More insight of our particular implementation is available in the `layouts/partials/section-menu.html` source file and the customized source file `themes/hyde/layouts/partials/sidebar.html`.
 
 
 ## Hugo server
