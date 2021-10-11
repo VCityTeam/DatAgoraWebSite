@@ -1,30 +1,53 @@
-## Experimentations
-DatAgora is also a place for experimenting with data. The experiments can be carried out by mobilising internal resources or through student groups supervised by the DatAgora team.
-Today, several projects have been dealt with or are being examined. These projects can be thematic and/or technical.
+## Data and experimentations
+DatAgora federates experimentations around urban data.
+These experiments are carried out by researchers and engineers directly, or through supervision of groups of students.
 
-### Vegetate cities
-Summary: Part-Dieu is a central district in the cultural and economic life of Lyon. It is an important node of the city's transport network, which makes it a crucial point of interest on a European scale. In addition, it is the most important financial district in France beside Paris. Given the importance of Part-Dieu for the future development of Lyon and France, every aspect of the area, every future change, must be carefully considered and planned to ensure its prosperity.
-The project is a collaboration with "Le Plan Canopé", which aims to plant over 300,000 trees by 2020 in the Lyon metropolis. Our objective is to show the effects of vegetation on the city in order to raise awareness among elected officials or citizens about the fight against urban heat islands or noise pollution, for example.
+Multiple projects have already been initiated and realized, or are being examined.
+These projects are categorized in the following problematics.
 
-Our problematic is knowing where to plant these trees so that they are the most effective and the least restrictive. During the last six months of 2020, we collected a maximum amount of urban data that could be useful for processing and visualising the parts of the city that are most suitable for greening the Lyon metropolis, even if the first stage is to focus on the Part Dieu area.
-A set of projects has been instructed in this sense.
+### Urban revegetation
+With urban areas globally increasing, more and more vegetation is encompassed by cities.
+What are the effects of vegetation on cities and vice-versa?
+If vegetation has been shown to help mitigate the urban heat island effect, noise and air pollution for instance, it also needs light, water and space and can have some detrimental effects.
+So where and how to [re]vegetate properly?
+How to communicate about urban [re]vegetation and raise awareness about this problematic among elected officials or citizens?
 
-- [Place of Vegetation in cities](Vegetalization-Project) : This project consists in the development of a 3D model of Part-Dieu, one of the most important area of Lyon, to interact with data regarding the revegetation of the city in order to mediate on the subject. To do so, several devices will also surround the model to help display, analyze and interact with urban data. We are closelly collaborating with Metropole de Lyon ([Erasme Urban Lab](https://www.erasme.org/), vegetation services, data services) to carry out this project.
+The following projects study [re]vegetation of urban areas, focussing on the **specific case of the *Part-Dieu* business district** of the Lyon metropolis :
+- [Place of Vegetation in cities](Vegetalization-Project) :
+  Development of a tangible and enriched mockup of the *Part-Dieu* district, to visualize, interact and mediate about revegetation data.
+- [Geonum Project](fr/geonum_20/Projet_Geonum_20)(French only content) :
+  Gathering and selection of urban data layers and proposition of indicators relevant to the prospection of revegetable areas.
+  This work has been done by students of the UDL Geonum Master's degree.
+- [LabXP Projet](fr/labxp_20/Projet_Labxp_20)(French only content) :
+  Serious game prototype about urban vegetation management considering primary resources, maintenance costs and environmental parameters.
+  This work has been done by GAMAGORA students.
+- [Dashboard](https://github.com/urbanlab/datagora_dashboard) (GitHub repository) :
+  Retrieval of online data, processing into statistical indicators and presentation as a modular dashboard, including raw data but also graphics.
+  This work has been done by students of the *Ecole Centrale de Lyon*.
+  which can include graphic elements in addition to the display of raw data.
+- Canopée Remix :
+  8 prototype projects of collective action, awareness raising and teaching, or management and maintenance of urban vegetation.
+  This work has been done by mote than 100 participants during an event organised by the metropolis of Lyon from 10 to 13 November 2020.
+- The Anthropocene Week 2021 :
+  Event organised for the past two years by the Lyon Urban School.
+  It brings together participants with very different profiles around different activities (round tables, workshops, exhibitions, etc.) regarding the impact of man on his environment.
+- [VegetaLyon](fr/vegetalyon/VegetaLyon)(French only content) :
+  Proposition of indicators relevant to the prospection of revegetable areas.
+  This work has been done by students of the *École Centrale de Nantes*.
 
-- [Geonum Project](fr/geonum_20/Projet_Geonum_20)(French only content) : A project by students of the UDL Geonum Master's degree which aims to provide new data layers from urban data layers to highlight the most important points that we wish to highlight, but also to produce new statistical values.
+### Directions and landmarks within a digital urban environment
+With internet and digital twins, free access is granted to digital reproductions of urban environments.
+Moreover, with the global lockdowns and restrictions imposed by the COVID pandemy, the easiest if not the only way to travel and discover new places was to visit digitally.
+How do people find their path in digital urban mockups?
+How to direct people in the real world versus in a digital reproduction?
+What are the representative elements (landmarks) of the real world that need to be reproduced to support directions?
 
-- [LabXP Projet](fr/labxp_20/Projet_Labxp_20)(French only content) : This is a video game creation project by GAMAGORA students. It is a prototype of a management game which aims to manage vegetation in an urban environment. It aims to show the player the complexity of managing the establishment and maintenance of green areas in cities, taking into account several environmental parameters.  
-
-- ECL (Dashboard) : This project, carried out by students at the Ecole Centrale de Lyon, allows for the retrieval of online data as well as their processing in order to calculate various statistical indicators. It allows the restitution of this information in the form of a modular dashboard, which can include graphic elements in addition to the display of raw data.
-
-- Canopée Remix : The Canopée Remix is an event organised by the metropolis of Lyon from 10 to 13 November 2020 and which aimed to reflect on the creation of several initiatives around vegetation in the city. More than 100 participants collaborated to propose 8 prototypes of collective action, awareness raising and teaching projects, or management and maintenance of vegetation.   
-
-- The Anthropocene Week 2021 : The Anthropocene Week is an event organised for the past two years by the Lyon Urban School, which brings together participants with very different profiles around different activities (round tables, workshops, exhibitions, etc.) regarding the impact of man on his environment.
-
-- [VegetaLyon](fr/vegetalyon/VegetaLyon)(French only content)
-
-### Interactions 
-Abstract
-- Lien vers cahier des charges.
+A running project (codename *GUIDE*) studies this problematic on the specific case of the campus of Bron, known to be a complex environment with multiple traversals throughout buildings and vertical extension.
+This project is a collaboration between researchers and engineers in linguistics and computer science.
+It is composed of multiple parts:
+- A study of spatial landmarks and linguistic directions observed on the real campus of Bron.
+- Elaboration of hypotheses about representative elements.
+- The development of a digital mockup of the campus of Bron.
+- An observation of spatial landmarks and linguistic directions observed on the digital mockup to [in-]validate hypotheses (hypothetico-deductive method).
 
  

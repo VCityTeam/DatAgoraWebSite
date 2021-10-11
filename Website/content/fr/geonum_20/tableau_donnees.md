@@ -7,7 +7,7 @@
 |:-:|:-:|:-:|:-:|
 | Bâti | Licence IGN | BD TOPO | Impossible de placer des arbres dessus
 | Voirie automobile| Licence IGN | BD TOPO | Impossible de placer des arbres dessus
-| Tramway| Open Source | [DataGrandLyon](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-transports-en-commun-lyonnais-1) | Impossible de placer des arbres dessus
+| Tramway| Open Source | DataGrandLyon[*](#notes) | Impossible de placer des arbres dessus
 | Voies ferrées | Licence IGN | BD TOPO | Impossible de placer des arbres dessus
 | Travaux en perspective | Open Source | [DataGrandLyon](https://www.data.gouv.fr/fr/datasets/prevision-de-travaux-de-la-metropole-de-lyon/) | Prise en compte des aménagements futurs pour éviter de placer des arbres seulement pour une durée limitée
 | Arbres d'alignement | Open Source | [DataGrandLyon](https://data.grandlyon.com/jeux-de-donnees/arbres-alignement-metropole-lyon/donnees) | Inutile d'en placer de nouveau, à moins de vouloir une essence différente
@@ -24,7 +24,7 @@
 
 | Couche | Disponibilité | Data | Intérêt |
 |:-:|:-:|:-:|:-:|
-| Métro| Open Source | [DataGrandLyon](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-transports-en-commun-lyonnais-1) | Objets urbains contraignants liés à l'implantation du métro (bouches d'aération, cables d'alimentation, réseau peu profond empêchant l'enracinement)
+| Métro| Open Source | DataGrandLyon[*](#notes) | Objets urbains contraignants liés à l'implantation du métro (bouches d'aération, cables d'alimentation, réseau peu profond empêchant l'enracinement)
 | Canalisations| Données privées| Eau du Grand Lyon  | Ne permet pas un bon enracinement des arbres
 
 
@@ -40,7 +40,8 @@
 |:-:|:-:|:-:|:-:|
 | Arrondissements | Open Source | [DataGrandLyon](https://www.data.gouv.fr/fr/datasets/arrondissements-de-lyon/) | Cerner la zone du projet
 
-
+## Notes
+Les données concernant le tramway et le métro, anciennement disponibles à l'adresse `https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-transports-en-commun-lyonnais-1`, ont été supprimées.
 
 [Page précédente - II.1.ii - Les données “privées”](donnees_privees)
 

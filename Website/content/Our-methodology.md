@@ -9,3 +9,7 @@ The first of these steps is to evaluate the project proposal as a whole. This in
 One or more collaborative workshops are then organized to qualify the different components of the project, in which all the partners affiliated to the project participate, in order to share their expertise. During these workshops, everyone exchanges around the installation modalities, the data to be mobilized and the means to interact. Following this, a first planning is established, and the development process begins.
 
 We proceed by working iteratively on the different components of the project by operating a regular weekly on the different productions, whether hardware or software. At the same time, we establish a documentation of the work done, and communicate on the different progresses of the project. These iterations are planned to be able to also participate in different key events for the project.
+
+## Technical charter
+DatAgora partners agreed on common good practices and principles to follow throughout projects.
+The content of this technical charter can be found [here (in French)](https://www.notion.so/Charte-technique-et-suivi-des-composants-59a3b4cd49954e02ad0beb8fa4da7d66).
