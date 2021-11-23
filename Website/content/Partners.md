@@ -1,4 +1,4 @@
-
+# Reprendre la taille des logos, sinon ok
 # Partners
 
 ### Lyon University
