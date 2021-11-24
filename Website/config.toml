@@ -39,26 +39,30 @@ sectionPagesMenu = "main"
 # The following navigation lists are used in the sidebar template (see themes/hyde/layouts/partials/sidebar.html).
 [Menus]
   main = [
-	  	  { Name = "Principles (to revise)", URL = "Principles", weight=1},
-	  	  { Name = "Methodology (to revise)",    URL = "Our-methodology", weight=2},
-	  	  { Name = "Data & XP (to complete (links))", URL = "Donnees-et-Experimentations", weight=3},
-	  	  { Name = "Data & Components (to complete)", URL = "Components", weight=4},
-	  	  { Name = "Data & Agora (to revise)", URL = "Agora", weight=5},
-	  	  { Name = "Field of studies (to revise)", URL = "Field-of-studies", weight=6},
-	  	  { Name = "About us", URL = "About", weight=7},
-	  	  { Name = "Open positions (to update)", URL = "Positions", weight=10},
+	  	  { Name = "Home", URL = "home", weight=1},
+#
+	  	  { Name = "Principles", URL = "principals", weight=20},
+	  	  { Name = "Projects", URL = "project_home", weight=21},
+	  	  { Name = "Components", URL = "components_home", weight=22},
+#
+	  	  { Name = "Team", URL = "Team", weight=30},
+	  	  { Name = "Partners", URL = "Partners", weight=31},
+#
+	  	  { Name = "Publications", URL = "Publications", weight=40},
+	  	  { Name = "Events", URL = "Events", weight=41},
   ]
   mainfr = [
-	  	  { Name = "Principes", URL = "Principles", weight=1},
-	  	  { Name = "Methodologie",    URL = "Our-methodology", weight=2},
-	  	  { Name = "Données & XP", URL = "Donnees-et-Experimentations", weight=3},
-	  	  { Name = "Données & Composants", URL = "Components", weight=4},
-	  	  { Name = "Données & Agora", URL = "Agora", weight=5},
-	  	  { Name = "Champs d'étude", URL = "Field-of-studies", weight=6},
-	  	  { Name = "Qui sommes nous?", URL = "About", weight=7},
-	  	  { Name = "Partenaires", URL = "Partners", weight=8},
-	  	  { Name = "Contact", URL = "Contact", weight=9},
-	  	  { Name = "Postes à pourvoir", URL = "Positions", weight=10},
+#todo ?
+#	  	  { Name = "Principes", URL = "Principles", weight=1},
+#	  	  { Name = "Methodologie",    URL = "Our-methodology", weight=2},
+#	  	  { Name = "Données & XP", URL = "Donnees-et-Experimentations", weight=3},
+#	  	  { Name = "Données & Composants", URL = "Components", weight=4},
+#	  	  { Name = "Données & Agora", URL = "Agora", weight=5},
+#	  	  { Name = "Champs d'étude", URL = "Field-of-studies", weight=6},
+#	  	  { Name = "Qui sommes nous?", URL = "About", weight=7},
+#	  	  { Name = "Partenaires", URL = "Partners", weight=8},
+#	  	  { Name = "Contact", URL = "Contact", weight=9},
+#	  	  { Name = "Postes à pourvoir", URL = "Positions", weight=10},
   ]
 
 # Notes: it seems that the now default markdown handler (goldmark) can NOT be
