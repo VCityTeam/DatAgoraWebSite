@@ -3,11 +3,11 @@
 
 Explication de la démarche par projets
 
-- ### **[DatAgora Project](projects/project_datagora)**  
-- [Place of Vegetation in cities](/projects/project_Place-Vegetation-cities.md)  
-- [Geonum](/projects/project_geonum.md)  
-- [LabXP](/projects/project_LabXP.md)  
-- [Dashboard ECL](/projects/project_ECL.md)  
+- ### **[DatAgora Project](projects/project_datagora)**
+- [Place of Vegetation in cities](/projects/project_Place-Vegetation-cities.md)
+- [Geonum](/projects/project_geonum.md)
+- [LabXP](/projects/project_LabXP.md)
+- [Dashboard ECL](/projects/project_ECL.md)
 - [Canopée Remix](/projects/project_CanopeeRemix.md)
 - [VegetaLyon](/projects/project_vegetalyon.md)
 - [GUIDE](/projects/project_guide.md)
