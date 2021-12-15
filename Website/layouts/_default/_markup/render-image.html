@@ -5,21 +5,28 @@
 {{ if not $isRemote }}
 	{{ $url := urls.Parse .Destination }}
 	{{ if $url.Path }}
-		{{ $fragment := "" }}
-		{{ with $url.Fragment }}{{ $fragment = printf "#%s" . }}{{ end }}
-		{{ with .Page.GetPage $url.Path }}
-			{{ $link = printf "%s%s" .RelPermalink $fragment }}
-			{{ $tmp = "case1" }}
+		{{/* Absolute path from website root. */}}
+		{{ if strings.HasPrefix $url "/" }}
+			{{ $link = $url.Path }}
+			{{ $tmp = "absolute path" }}
 		{{ else }}
-			{{ $tmp = "workaround" }}
-			{{/* workaround for secondary language in separate dir */}}
-			{{ $file := printf "%s/%s%s" site.Language.Lang .Page.File.Dir $link }}
-			{{ if (fileExists $file) }}
-				{{ $link = printf "%s%s" site.Site.BaseURL $file }}
+			{{ $fragment := "" }}
+			{{ with $url.Fragment }}{{ $fragment = printf "#%s" . }}{{ end }}
+			{{ with .Page.GetPage $url.Path }}
+				{{ $link = printf "%s%s" .RelPermalink $fragment }}
+				{{ $tmp = "case1" }}
 			{{ else }}
-				{{/* workaround for broken crosslang links */}}
-				{{/* TODO: workaround for default lang */}}
-				{{ $link = printf "%s%s%s" site.Site.BaseURL .Page.File.Dir $link }}
+				{{/* workaround for secondary language in separate dir */}}
+				{{ $file := printf "%s/%s%s" site.Language.Lang .Page.File.Dir $link }}
+				{{ if (fileExists $file) }}
+					{{ $link = printf "%s%s" site.Site.BaseURL $file }}
+					{{ $tmp = "file exists workaround" }}
+				{{ else }}
+					{{/* workaround for broken crosslang links */}}
+					{{/* TODO: workaround for default lang */}}
+					{{ $link = printf "%s%s%s" site.Site.BaseURL .Page.File.Dir $link }}
+					{{ $tmp = "default lang workaround" }}
+				{{ end }}
 			{{ end }}
 		{{ end }}
 	{{ end }}
