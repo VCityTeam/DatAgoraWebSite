@@ -1,4 +1,4 @@
-|![LIRIS](../partners/logo_liris_100.png)|
+|![LIRIS](/partners/logo_liris_100.png)|
 |---|
 
 # Legonizer
@@ -14,7 +14,7 @@
 
 
 ### Projects 
-* [Place of Vegetation in cities](../projects/project_Place-Vegetation-cities)
+* [Place of Vegetation in cities](/projects/project_Place-Vegetation-cities)
 
 ### Involved partners
 * LIRIS

@@ -1,5 +1,5 @@
 |![IMU](/partners/LabexIMU_100.png)|![LIRIS](/partners/logo_liris_100.png)|![ERASME](/partners/Erasme_100.jpg)|![TUBA](/partners/Tuba_100.jpg)|
-|---|---|---|---|---|---|
+|---|---|---|---|
 
 # Model Display
 2020-2021
