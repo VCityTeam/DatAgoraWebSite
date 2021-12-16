@@ -6,12 +6,12 @@
 
 >*Unity module to transform a provided 3D object into a voxel representation. Provides building instructions for a tangible construction such as with legos.*
 
-![illustration](legonizer/capture.png)
+![illustration](capture.png)
 
 ***
 
 ### Projects 
-* [Place of Vegetation in cities](/projects/place-vegetation-cities)
+* [Place of Vegetation in cities](/projects/cities-vegetation)
 
 ### References
 * [GitHub repository](https://github.com/VCityTeam/UD-Legonizer)

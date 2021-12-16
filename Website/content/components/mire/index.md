@@ -6,7 +6,7 @@
 
 >*Unity module to track rectangles elements (legos) with a camera and move their digital siblings accordingly in the 3D scene.*
 
-![Nom image](mire/capture2.png)
+![Nom image](capture2.png)
 
 ***
 
@@ -15,7 +15,7 @@ The Mire module is a camera detection Unity module based on OpenCV, and used to 
 ***
 
 ### Projects 
-* [Place of Vegetation in cities](/projects/place-vegetation-cities)
+* [Place of Vegetation in cities](/projects/cities-vegetation)
 
 ### References
 * [GitHub repository](https://github.com/VCityTeam/UD-Mire)

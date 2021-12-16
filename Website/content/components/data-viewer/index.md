@@ -6,13 +6,13 @@
 
 >*A web tool to visualize and interact with custom data layers.*
 
-![all-layers-side](data-viewer/UD_Viz_All_Layers_Side.png)
+![all-layers-side](UD_Viz_All_Layers_Side.png)
 
 ***
 
-|![all-layers](data-viewer/UD_Viz_All_Layers.png#center)|![all-layers-ui-buildings](data-viewer/UD_Viz_All_Layers_UI_Buildings.png#center)|
+|![all-layers](UD_Viz_All_Layers.png#center)|![all-layers-ui-buildings](UD_Viz_All_Layers_UI_Buildings.png#center)|
 |---|---|
-|![vegetation-mask](data-viewer/UD_Viz_Vegetalisation_Artif_Mask.png#center)|![without-builings](data-viewer/UD_Viz_Without_Buildings.png#center)|
+|![vegetation-mask](UD_Viz_Vegetalisation_Artif_Mask.png#center)|![without-builings](UD_Viz_Without_Buildings.png#center)|
 
 A web application that allows us to display data in a 3D environment and interact with it to better showcase the correlations between them. This module is part of a large web application, [UD-Viz](UD-Viz_module), developed at LIRIS by the VCity team. UD-Viz is based on ITowns, a Three.js environment to display geospatial data, and is constantly enhanced by adding various modules to better analyze and interact with data.
 
@@ -44,7 +44,7 @@ There are several supported formats that can be dislpayed, either as 3D objects 
 ***
 
 ### Projects 
-* [Place of Vegetation in cities](/projects/place-vegetation-cities)
+* [Place of Vegetation in cities](/projects/cities-vegetation)
 
 ### References
 * [GitHub repository](https://github.com/VCityTeam/UD-Demo-DatAgora-Vegetalisation-PartDieu)

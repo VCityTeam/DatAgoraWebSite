@@ -6,7 +6,7 @@
 
 >*Unity module to parse and visualize CityGML urban data as a triangle mesh.*
 
-![illustration](citygml-parser/capture.png)
+![illustration](capture.png)
 
 ***
 

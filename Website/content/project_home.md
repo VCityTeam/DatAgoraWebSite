@@ -4,14 +4,14 @@
 Explication de la démarche par projets
 
 - ### **[DatAgora Project](projects/project_datagora)**
-- [Place of Vegetation in cities](/projects/project_Place-Vegetation-cities.md)
-- [Geonum](/projects/project_geonum.md)
-- [LabXP](/projects/project_LabXP.md)
-- [Dashboard ECL](/projects/project_ECL.md)
-- [Canopée Remix](/projects/project_CanopeeRemix.md)
-- [VegetaLyon](/projects/project_vegetalyon.md)
-- [GUIDE](/projects/project_guide.md)
-- [Transferability of new affordances in collaborative analyses of complex data?](/projects/project_Transferability.md)
-- [Research-Action in Physics Didactics](/projects/project_RA_physics.md)
-- [Visual Marginalia and Co-elaboration of Knowledge inside groups](/projects/project_Visual_Marginalia.md)
+- [Place of Vegetation in cities](/projects/cities-vegetation)
+- [Geonum](/projects/project_geonum)
+- [LabXP](/projects/project_LabXP)
+- [Dashboard ECL](/projects/project_ECL)
+- [Canopée Remix](/projects/project_CanopeeRemix)
+- [VegetaLyon](/projects/project_vegetalyon)
+- [GUIDE](/projects/project_guide)
+- [Transferability of new affordances in collaborative analyses of complex data?](/projects/project_Transferability)
+- [Research-Action in Physics Didactics](/projects/project_RA_physics)
+- [Visual Marginalia and Co-elaboration of Knowledge inside groups](/projects/project_Visual_Marginalia)
 

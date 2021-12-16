@@ -4,7 +4,7 @@
 
 ## Physical stations 
 - [Model Display](components/model-display)
-- [Sceenwall](components/sceenwall)
+- [Sceenwall](components/screenwall)
 
 ## Software stations
 - Bron wandering

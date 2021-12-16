@@ -7,7 +7,7 @@
 >*Device composed of four screens that can act as independent screens or as a single large screen. Thanks to the SAGE2 environment, it is possible to connect several users on site and remotely to work simultaneously in the same workspace.*
 
 
-![illustration](screenwall/photo1.jpg)
+![illustration](photo1.jpg)
 
 ***
 
