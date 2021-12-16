@@ -12,5 +12,5 @@ Sélection de la photo illustrant la page d'accueil.
 	Légende + crédits
 
 
-[DatAgora Project](http://localhost:1313/projects/project_datagora.html)
+[DatAgora Project](/projects/datagora)
 
