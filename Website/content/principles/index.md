@@ -2,7 +2,7 @@
 
 For each project we work on, we follow a rigorous methodology, based on data processing and validation, in close collaboration with all project contributors, to ensure that everyone agrees with the current developments, and thus ensure the success of the project.
 
-<img align="center" src="Principals_diagram.png" width="800">
+![](diagram.png#center)
 
 The first of these steps is to evaluate the project proposal as a whole. This involves defining its aspirations, delineating its scope, and clearly identifying all the components that will be necessary for the successful implementation of the project. Following this study, the project can be pursued if it is sufficiently precise and corresponds well to DatAgora's field of work.
 
