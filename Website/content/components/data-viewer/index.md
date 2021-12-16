@@ -14,7 +14,7 @@
 |---|---|
 |![vegetation-mask](UD_Viz_Vegetalisation_Artif_Mask.png#center)|![without-builings](UD_Viz_Without_Buildings.png#center)|
 
-A web application that allows us to display data in a 3D environment and interact with it to better showcase the correlations between them. This module is part of a large web application, [UD-Viz](UD-Viz_module), developed at LIRIS by the VCity team. UD-Viz is based on ITowns, a Three.js environment to display geospatial data, and is constantly enhanced by adding various modules to better analyze and interact with data.
+A web application that allows us to display data in a 3D environment and interact with it to better showcase the correlations between them. This module is part of a large web application, [UD-Viz][udviz], developed at LIRIS by the VCity team. UD-Viz is based on ITowns, a Three.js environment to display geospatial data, and is constantly enhanced by adding various modules to better analyze and interact with data.
 
 The data is retrieved from databases with WFS or WMS protocol and processed to best fit the user's requierments.
 
@@ -47,5 +47,8 @@ There are several supported formats that can be dislpayed, either as 3D objects 
 * [Place of Vegetation in cities](/projects/cities-vegetation)
 
 ### References
+[udviz]: https://projet.liris.cnrs.fr/vcity/tools/ud-viz/
+
 * [GitHub repository](https://github.com/VCityTeam/UD-Demo-DatAgora-Vegetalisation-PartDieu)
 * [Online demo](https://datagora.vcityliris.data.alpha.grandlyon.com/)
+* [UD-Viz][udviz]

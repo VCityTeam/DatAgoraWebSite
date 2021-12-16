@@ -9,7 +9,7 @@
 | Voirie automobile| Licence IGN | BD TOPO | Impossible de placer des arbres dessus
 | Tramway| Open Source | DataGrandLyon[*](#notes) | Impossible de placer des arbres dessus
 | Voies ferrées | Licence IGN | BD TOPO | Impossible de placer des arbres dessus
-| Travaux en perspective | Open Source | [DataGrandLyon](https://www.data.gouv.fr/fr/datasets/prevision-de-travaux-de-la-metropole-de-lyon/) | Prise en compte des aménagements futurs pour éviter de placer des arbres seulement pour une durée limitée
+| Travaux en perspective | Open Source | DataGrandLyon[*](#notes) | Prise en compte des aménagements futurs pour éviter de placer des arbres seulement pour une durée limitée
 | Arbres d'alignement | Open Source | [DataGrandLyon](https://data.grandlyon.com/jeux-de-donnees/arbres-alignement-metropole-lyon/donnees) | Inutile d'en placer de nouveau, à moins de vouloir une essence différente
 | Mobilier urbain | Open Source | [DataGrandLyon](https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/info) | Impossible de placer des arbres dessus
 | Entrées de parking | Open Source | [DataGrandLyon](https://data.grandlyon.com/jeux-de-donnees/acces-parkings-lyon-parc-auto-metropole-lyon/donnees)|Impossible de placer des arbres dessus
@@ -42,6 +42,8 @@
 
 ## Notes
 Les données concernant le tramway et le métro, anciennement disponibles à l'adresse `https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-transports-en-commun-lyonnais-1`, ont été supprimées.
+Les données concernant les prévisions de travaux, anciennement disponibles à l'adresse `https://www.data.gouv.fr/fr/datasets/prevision-de-travaux-de-la-metropole-de-lyon/`, ont été supprimées.
+
 
 [Page précédente - II.1.ii - Les données “privées”](donnees_privees)
 
