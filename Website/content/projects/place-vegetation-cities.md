@@ -1,4 +1,4 @@
-|![ASLAN](/partners/Aslan100.png)|![IMU](/partners/LabexIMU_100.png)|![LIRIS](/partners/logo_liris_100.png)|![ERASME](/partners/Erasme_100.jpg)|![TUBA](/partners/Tuba_100.jpg)|
+|![ASLAN](/partners/Aslan100.png#center)|![IMU](/partners/LabexIMU_100.png#center)|![LIRIS](/partners/logo_liris_100.png#center)|![ERASME](/partners/Erasme_100.jpg#center)|![TUBA](/partners/Tuba_100.jpg#center)|
 |---|---|---|---|---|
 
 # Place of Vegetation in cities
@@ -6,9 +6,9 @@
 
 >*Development of a tangible and enriched mockup of the Part-Dieu district, to visualize, interact and mediate about revegetation data.*
 
-![](PartDieuModel/SansProjection.jpg)
+![](place-vegetation-cities/model1.jpg)
 
-
+***
 
 ## Introduction
 Part-Dieu is a central neighbourhood in the cultural and economical life of Lyon. It is the central transport node of the city, making it a crucial point of interest to a european scale. Furthermore, it is the most important financial district in France, outside of the capital. Considering Part-Dieu importance for the future development of Lyon and France, every aspect of it, every future change has to be carefully studied and planed to ensure that it's prosperity remains top notched.
@@ -17,20 +17,25 @@ Part-Dieu is a central neighbourhood in the cultural and economical life of Lyon
 The project is in collaboration with [*Le Plan Canopé*][plan-canope], which aims to plant more than 300,000 trees by 2020 in the metropolis of Lyon.
 Our goal is to show the effects of vegetalization on the city to raise awareness among elected officials or citizens in the fight against heat islands or noise pollution for example.
 
+|![model photo](place-vegetation-cities/model2.jpg#center)|![model photo](place-vegetation-cities/model3.jpg#center)|![no projection](place-vegetation-cities/no-proj.jpg#center)|
+|---|---|---|
+|![orthophotograph](place-vegetation-cities/orthophoto.png#center)|![trees projection](place-vegetation-cities/trees-proj.jpg#center)|![UD-Viz projection](place-vegetation-cities/udviz-proj.jpg#center)|
 
+***
 
 ### Components 
 **Created for the project**
-* [Legonizer](/components/components_Legonizer)
-* [Mire](/components/components_Mire)
-* [Model Display](/components/components_Model-Display)
-* Couches HBO
+* [Legonizer](/components/legonizer)
+* [Mire](/components/mire)
+* [Model Display](/components/model-display)
+* [Data Viewer](/components/data-viewer)
 
 ### Involved partners
-* Erasme Urban Lab, Métropole de Lyon
-* Service donnée Métropole de Lyon
-* Service Arbres et paysages de la métropole de Lyon
-* LIRIS
+* *Métropole de Lyon* :
+  * Erasme Urban Lab
+  * *Service données*
+  * *Service arbres et paysages*
+
 ### References
 [plan-canope]: https://blogs.grandlyon.com/developpementdurable/en-actions/dispositifs-partenariaux/plan-canopee-larbre-au-service-du-climat-urbain/
 * [*Le Plan Canopé*][plan-canope]

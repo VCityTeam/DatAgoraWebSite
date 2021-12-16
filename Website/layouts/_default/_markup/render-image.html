@@ -1,19 +1,19 @@
 {{ $tmp := "" }}
 
 {{ $link := .Destination }}
+{{ $fragment := "" }}
 {{ $isRemote := strings.HasPrefix $link "http" }}
 {{ if not $isRemote }}
 	{{ $url := urls.Parse .Destination }}
 	{{ if $url.Path }}
+		{{ with $url.Fragment }}{{ $fragment = printf "#%s" . }}{{ end }}
 		{{/* Absolute path from website root. */}}
 		{{ if strings.HasPrefix $url "/" }}
 			{{ $link = $url.Path }}
 			{{ $tmp = "absolute path" }}
 		{{ else }}
-			{{ $fragment := "" }}
-			{{ with $url.Fragment }}{{ $fragment = printf "#%s" . }}{{ end }}
 			{{ with .Page.GetPage $url.Path }}
-				{{ $link = printf "%s%s" .RelPermalink $fragment }}
+				{{ $link = .RelPermalink }}
 				{{ $tmp = "case1" }}
 			{{ else }}
 				{{/* workaround for secondary language in separate dir */}}
@@ -35,9 +35,9 @@
 {{/* https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/ */}}
 {{ if .Title }}
 <figure>
-	<img src="{{ $link | safeURL }}" alt="{{ $.Text }}">
+	<img src="{{ $link | safeURL }}{{ $fragment | safeURL  }}" alt="{{ $.Text }}">
 	<figcaption>{{ .Title }}</figcaption>
 </figure>
 {{ else }}
-<img src="{{ $link | safeURL }}" alt="{{ $.Text }}">
+<img src="{{ $link | safeURL }}{{ $fragment | safeURL  }}" alt="{{ $.Text }}">
 {{ end }}
