@@ -1,3 +1,0 @@
-# [Restitution Atelier *Usages participatifs et maquette augmentée*]( https://imu.universite-lyon.fr/formation/retour-sur-latelier-usages-participatifs-et-maquette-augmentee/)
-
->The objective was to reflect collaboratively on the way in which an architectural project (in this case, that of the Learning Center programmed on the Porte des Alpes Campus of the University Lumière Lyon 2 in Bron) fits into a territory, and to propose a concrete representation of this issue, a representation that had to be based on a model of the building and its enrichments: by territorial data sets, historical documents, etc.
