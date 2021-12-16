@@ -9,6 +9,7 @@
 ## Software stations
 - Bron wandering
 - [CityGML Parser](citygml-parser)
+- [Dashboard](dashboard)
 - [Data Viewer](data-viewer)
 - [Legonizer](legonizer)
 - [Mire](mire)
