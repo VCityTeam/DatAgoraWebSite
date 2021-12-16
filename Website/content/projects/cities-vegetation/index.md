@@ -6,7 +6,7 @@
 
 >*Development of a tangible and enriched mockup of the Part-Dieu district, to visualize, interact and mediate about revegetation data.*
 
-![](cities-vegetation/model1.jpg)
+![](model1.jpg)
 
 ***
 
@@ -17,9 +17,9 @@ Part-Dieu is a central neighbourhood in the cultural and economical life of Lyon
 The project is in collaboration with [*Le Plan Canopé*][plan-canope], which aims to plant more than 300,000 trees by 2020 in the metropolis of Lyon.
 Our goal is to show the effects of vegetalization on the city to raise awareness among elected officials or citizens in the fight against heat islands or noise pollution for example.
 
-|![model photo](cities-vegetation/model2.jpg#center)|![model photo](cities-vegetation/model3.jpg#center)|![no projection](cities-vegetation/no-proj.jpg#center)|
+|![model photo](model2.jpg#center)|![model photo](model3.jpg#center)|![no projection](no-proj.jpg#center)|
 |---|---|---|
-|![orthophotograph](cities-vegetation/orthophoto.png#center)|![trees projection](cities-vegetation/trees-proj.jpg#center)|![UD-Viz projection](cities-vegetation/udviz-proj.jpg#center)|
+|![orthophotograph](orthophoto.png#center)|![trees projection](trees-proj.jpg#center)|![UD-Viz projection](udviz-proj.jpg#center)|
 
 ***
 
