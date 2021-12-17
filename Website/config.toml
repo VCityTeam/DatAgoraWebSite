@@ -47,7 +47,6 @@ sectionPagesMenu = "main"
     { Name = "Team", URL = "team", weight=30},
     { Name = "Partners", URL = "partners", weight=31},
 #
-    { Name = "Publications", URL = "Publications", weight=40},
     { Name = "Events", URL = "events", weight=41},
   ]
   mainfr = [

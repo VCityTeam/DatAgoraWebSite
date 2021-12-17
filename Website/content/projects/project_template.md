@@ -6,7 +6,7 @@ Dates
 
 >*Short accessible description.*
 
-![image_name](image.jpg)
+![image_name](image.jpg "Label")
 
 ***
 

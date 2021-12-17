@@ -1,4 +1,4 @@
-|![ASLAN](../partners/Aslan100.png)|![IMU](../partners/LabexIMU_100.png)|![ICAR](../partners/ICAR_100.png)|![LIRIS](../partners/logo_liris_100.png)|
+|![ASLAN](/partners/Aslan100.png#center)|![IMU](/partners/LabexIMU_100.png#center)|![ICAR](../partners/ICAR_100.png)|![LIRIS](/partners/logo_liris_100.png#center)|
 |---|---|---|---|
 
 # GUIDE
@@ -12,11 +12,9 @@ June-December 2021
 Une maquette numérique du campus de Bron est conçue afin de servir d’environnement numérique pour l’expérimentation sur l’orientation.
 ### Données existantes
 Concernant les outils et données disponibles pour réaliser une reproduction numérique du campus de Porte des Alpes, une maquette numérique géoréférencée existe déjà dans les données ouvertes de la métropole de Lyon.
-![Visualisation en vue aérienne de la maquette numérique disponible dans les données ouvertes.]()
-Visualisation en vue aérienne de la maquette numérique disponible dans les données ouvertes.
+![](open-data-mockup-aerial.png "Visualisation en vue aérienne de la maquette numérique disponible dans les données ouvertes.")
 
-![Visualisation en vue à la troisième personne de la maquette numérique disponible dans les données ouvertes.]()
-Visualisation en vue à la troisième personne de la maquette numérique disponible dans les données ouvertes.
+![](open-data-mockup-third-person.png "Visualisation en vue à la troisième personne de la maquette numérique disponible dans les données ouvertes.")
 
 ### Maquette détaillée par infographie
 La maquette des données ouvertes de la métropole est cependant trop grossière pour une exploration numérique à échelle humaine. L’idée est donc de partir de ce modèle et de l’enrichir avec plus de détails géométriques et d’aspect (couleurs).
@@ -34,24 +32,24 @@ La maquette est chargée dans l’application web de visualisation 3D de donnée
 Les données urbaines ouvertes de la métropole de Lyon ont déjà été exploitées à plusieurs reprises dans le cadre de différentes réalisations de VCity en proposant des navigations/visualisations aériennes. L’exploration/la navigation à la première personne qui est commune dans les jeux-vidéo est cependant une fonctionnalité nouvelle d’UD-Viz développée durant le projet GUIDE.
 
 ## Expérimentation Porte des Alpes
-L’objectif du projet GUIDE est de récolter et d’analyser des interactions sur les pratiques d’orientation sur le Campus Porte des Alpes, que ce soit dans l’univers tangible ou à travers l’utilisation de la maquette 3D. 
+L’objectif du projet GUIDE est de récolter et d’analyser des interactions sur les pratiques d’orientation sur le Campus Porte des Alpes, que ce soit dans l’univers tangible ou à travers l’utilisation de la maquette 3D.
 ### Cas d’application : Campus Porte des Alpes - Bron
 Nous prendrons ici l’exemple de déplacements sur un campus universitaire (le campus Porte des Alpes (désormais PdA) de l’Université Lumière Lyon 2 située à Bron).
-Le campus PdA  est l’un des deux campus principaux de l’Université Lumière Lyon 2. Excentré du centre-ville de Lyon, il se situe sur la commune de Bron et s’étale sur une superficie de 70 444m2. Il accueille chaque année plus de 16 000 étudiants (soit plus de la moitié des étudiants de l’université). 
+Le campus PdA  est l’un des deux campus principaux de l’Université Lumière Lyon 2. Excentré du centre-ville de Lyon, il se situe sur la commune de Bron et s’étale sur une superficie de 70 444m2. Il accueille chaque année plus de 16 000 étudiants (soit plus de la moitié des étudiants de l’université).
 
 ### Protocole
 #### Tâche à accomplir : 
-Une tâche particulière d’orientation sur le campus sera demandée aux participants. 
-Il s’agira d’un parcours à réaliser sur le campus (IRL ou virtuelle). L’idée retenue est de soumettre aux participants un emploi du temps factice et de leur demander de se rendre, dans l’ordre indiqué, aux différents bâtiments et points stratégiques. 
-Dans l’idéal, la tâche ne devra pas dépasser les 20 minutes. 
+Une tâche particulière d’orientation sur le campus sera demandée aux participants.
+Il s’agira d’un parcours à réaliser sur le campus (IRL ou virtuelle). L’idée retenue est de soumettre aux participants un emploi du temps factice et de leur demander de se rendre, dans l’ordre indiqué, aux différents bâtiments et points stratégiques.
+Dans l’idéal, la tâche ne devra pas dépasser les 20 minutes.
 L’emploi du temps se trouve en Annexe 1
 #### Participants
 Les participants seront sélectionnés parmi les candidats volontaires, suite à un appel. Nous essayerons autant que possible :
-- de respecter une parité de genre 
+- de respecter une parité de genre
 - de faire participer des candidats ayant entre 18 et 25 ans (tranche d’âge « étudiante »)
 - de sélectionner les candidats de langue maternelle française (pour éviter que de potentiels problèmes liés à l’usage de la langue n’entrent en jeu)
 
-Les candidats passeront les tests en binômes, répartis en fonction de leur connaissance ou non du campus. C’est-à-dire qu’il y aura des candidats dits néophytes n’ayant jamais été sur le campus Porte des Alpes et des candidats experts connaissant, eux, le campus. 
+Les candidats passeront les tests en binômes, répartis en fonction de leur connaissance ou non du campus. C’est-à-dire qu’il y aura des candidats dits néophytes n’ayant jamais été sur le campus Porte des Alpes et des candidats experts connaissant, eux, le campus.
 - Binôme 1 : 2 experts
 - Binôme 2 et 2bis : 2 néophytes
 - Binôme 3 : 1 expert et 1 néophyte (mixte)
@@ -66,34 +64,33 @@ Les candidats passeront les tests en binômes, répartis en fonction de leur con
 Des autorisations d'enregistrement seront distribuées et expliquées aux participants et signées avant chaque enregistrement.
 
 ##### Phase 1 : Expérimentation Monde Virtuel
-Dans le cadre de l’expérimentation via la maquette 3D numérique, la séance se déroule dans les locaux du laboratoire ICAR, à l’ENS, dans la salle d’écran DatAgora. 
-La simulation sera lancée sur le mur d’écran afin de permettre une plus grande immersion de permettre une collecte de données en présentiel facilitée. 
+Dans le cadre de l’expérimentation via la maquette 3D numérique, la séance se déroule dans les locaux du laboratoire ICAR, à l’ENS, dans la salle d’écran DatAgora.
+La simulation sera lancée sur le mur d’écran afin de permettre une plus grande immersion de permettre une collecte de données en présentiel facilitée.
 L’emploi du temps est donné en version papier.  
-La collecte de données se fait grâce au [dispositif de collecte de données fixes](/components/Collecte_donnees_fixes) mis en place. 
+La collecte de données se fait grâce au [dispositif de collecte de données fixes](/components/Collecte_donnees_fixes) mis en place.
 
-
-Des masques de protection transparents réutilisables sont utilisés afin de minimiser l’impact des masques (et l’absence de visualisation de la partie inférieure du visage) sur le corpus et a fortiori sur les analyses linguistiques. Ils seront aussi utilisés dans la phase 2 de l’expérimentation.  
+Des masques de protection transparents réutilisables sont utilisés afin de minimiser l’impact des masques (et l’absence de visualisation de la partie inférieure du visage) sur le corpus et a fortiori sur les analyses linguistiques. Ils seront aussi utilisés dans la phase 2 de l’expérimentation.
 
 ##### Phase 2 : Expérimentation IRL
-Afin de pouvoir apporter une complémentarité aux enregistrements réalisés sur le mur d’écran, il sera mené une expérimentation similaire en situation réelle sur le campus Porte des Alpes de Bron. 
-Le même emploi du temps leur sera remis et ils devront, à la manière de la phase 1 de l’expérimentation, se déplacer à travers le campus et relier les différents points mentionnés. 
+Afin de pouvoir apporter une complémentarité aux enregistrements réalisés sur le mur d’écran, il sera mené une expérimentation similaire en situation réelle sur le campus Porte des Alpes de Bron.
+Le même emploi du temps leur sera remis et ils devront, à la manière de la phase 1 de l’expérimentation, se déplacer à travers le campus et relier les différents points mentionnés.
 
 Afin de limiter la présence d’autres étudiants, il est proposé que cette phase d’expérimentation se déroule un vendredi après-midi; quand la fréquentation du campus est plus réduite.
 
-Le binôme qui réalisera cette tâche sera un binôme 2bis (2 nouveaux participants néophytes) afin de comparer les comportements de « premier pas sur le campus » entre une expérience tangible et numérique. 
+Le binôme qui réalisera cette tâche sera un binôme 2bis (2 nouveaux participants néophytes) afin de comparer les comportements de « premier pas sur le campus » entre une expérience tangible et numérique.
 La collecte de données se fait grâce au [dispositif de collecte de données mobiles](/components/Collecte_donnees_mobiles) mis en place. Une trace GPS du parcours des participants sera aussi réalisée.
 
 
 ### Traitement des données
 #### Constitution du corpus
 ##### Extraction
-Les données ont été extraites et synchronisées au laboratoire ICAR. Des montages multi-vues synchronisés ont été réalisés, ainsi qu’une découpe des extraits d’expérimentation. 
+Les données ont été extraites et synchronisées au laboratoire ICAR. Des montages multi-vues synchronisés ont été réalisés, ainsi qu’une découpe des extraits d’expérimentation.
 ##### Transcriptions 
-Après visualisation du corpus, les passages pertinents sélectionnés seront transcrits. Si les délais le permettent, l’intégralité du corpus sera transcrit. 
+Après visualisation du corpus, les passages pertinents sélectionnés seront transcrits. Si les délais le permettent, l’intégralité du corpus sera transcrit.
 La transcription sera faite selon les conventions de transcription [ICOR](http://icar.cnrs.fr/projets/corinte/documents/2013_Conv_ICOR_250313.pdf) et sera complétée en prenant en compte les aspects multimodaux suivants :
 - Regards entre participants
 - Gestes des participants
-- Interactions avec l’ordinateur 
+- Interactions avec l’ordinateur
 
 [Exemple de transcription du corpus](project_Guide_Groupe1_transcription_expe.pdf)
 ##### Corpus
@@ -108,13 +105,13 @@ Le corpus constitué lors de cette expérimentation comprend les enregistrements
 | | | **TOTAL**| **01:53:08**|**01:13:35**|
 
 L’ensemble du corpus est disponible sur un disque dur copié sur le disque dur externe disponible au laboratoire LIRIS.
-Il est enrichi des transcriptions réalisées et des autorisations d’enregistrement scannées. 
+Il est enrichi des transcriptions réalisées et des autorisations d’enregistrement scannées.
 
 ## Potentialités 
 ### Applicatives
 #### A court terme :
 - analyse et étude fine du corpus recueilli
-- [maquette opérationnelle](https://deambulation-bron.vcityliris.data.alpha.grandlyon.com/) 
+- [maquette opérationnelle](https://deambulation-bron.vcityliris.data.alpha.grandlyon.com/)
 #### A moyen terme :
 - étendre l’étude à un plus large panel
 - compléter la maquette (intérieur des bâtiments)

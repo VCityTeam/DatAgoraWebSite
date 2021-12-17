@@ -8,7 +8,7 @@ dates
 >*Short and accessible description.*
 
 
-![alt_text "Label"](image.jpg)
+![alt_text](image.jpg "Label")
 
 ***
 
