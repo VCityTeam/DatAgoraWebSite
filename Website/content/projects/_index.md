@@ -3,7 +3,7 @@
 Multiple projects have already been initiated and realized, or are being examined.*
 
 - ### **[DatAgora](datagora)**
-  - [GUIDE](project_guide)
+  - [GUIDE](guide)
   - [Place of Vegetation in cities](cities-vegetation)
     - [Canopée Remix](canopee-remix)
     - Student projects:
