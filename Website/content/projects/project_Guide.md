@@ -107,12 +107,12 @@ Dispositif d'enregistrement mobile
 Les données ont été extraites et synchronisées au laboratoire ICAR. Des montages multi-vues synchronisés ont été réalisés, ainsi qu’une découpe des extraits d’expérimentation. 
 ##### Transcriptions 
 Après visualisation du corpus, les passages pertinents sélectionnés seront transcrits. Si les délais le permettent, l’intégralité du corpus sera transcrit. 
-La transcription sera faite selon les conventions de transcription [ICOR](http://icar.cnrs.fr/projets/corinte/documents/2013_Conv_ICOR_250313.pdf) et prendra en compte les aspects multimodaux suivants :
+La transcription sera faite selon les conventions de transcription [ICOR](http://icar.cnrs.fr/projets/corinte/documents/2013_Conv_ICOR_250313.pdf) et sera complétée en prenant en compte les aspects multimodaux suivants :
 - Regards entre participants
 - Gestes des participants
 - Interactions avec l’ordinateur 
 
-A ce jour, le format de la transcription n’est pas déterminé (transcription texte sous word, ou alignement vidéo sous ELAN).
+[Exemple de transcription du corpus](project_Guide_Groupe1_transcription_expe.pdf)
 ##### Corpus
 Le corpus constitué lors de cette expérimentation comprend les enregistrements suivants :
 
@@ -154,8 +154,9 @@ Il est enrichi des transcriptions réalisées et des autorisations d’enregistr
 
 ### Composants 
 **Créés dans le cadre du projet**
-- Liste avec liens vers les pages composants
-- Format : Nom du composant
+- Bron wandering
+- Dispositif de collecte de données fixes
+- Dispositif de collecte de données mobiles
  
 **Utilisés dans le cadre du projet**
 - Liste avec liens vers les pages composants
