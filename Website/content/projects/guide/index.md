@@ -42,7 +42,7 @@ Le campus PdA est l’un des deux campus principaux de l’Université Lumière 
 Une tâche particulière d’orientation sur le campus est demandée aux participants.
 Il s’agit d’un parcours à réaliser sur le campus (IRL ou virtuelle). L’idée retenue est de soumettre aux participants un emploi du temps factice et de leur demander de se rendre, dans l’ordre indiqué, aux différents bâtiments et points stratégiques.
 Dans l’idéal, la tâche ne doit pas dépasser les 20 minutes.
-L’emploi du temps se trouve en Annexe 1 //TODO
+![](annex1.png "L'emploi du temps tel qu'imprimé et fourni aux participants.")
 #### Participants
 Les participants onti été sélectionnés parmi des candidats volontaires, suite à un appel. Nous avons essayé autant que possible :
 - de respecter une parité de genre,

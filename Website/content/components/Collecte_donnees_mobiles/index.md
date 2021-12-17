@@ -4,7 +4,7 @@
 
 # Dispositif de collecte de données mobiles
 
->*Short and accessible description.*
+>*Based on EMCA (Ethnomethodological conversation analysis) methodology, this recording device is suitable to collect interactional audio-video data. Especially for mobile interactions.*
 
 
 ![Dispositif d'enregistrement mobile"Dispositif d'enregistrement mobile"](Dispositif_mobile.jpg)

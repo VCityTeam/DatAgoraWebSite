@@ -5,7 +5,7 @@
 
 # Dispositif de collecte de données fixes
 
->*Short and accessible description.*
+>*Based on EMCA (Ethnomethodological conversation analysis) methodology, this recording device is suitable to collect interactional audio-video data. Especially for static interactions.*
 
 
 
