@@ -6,6 +6,7 @@ June-December 2021
 
 > *Au croisement des disciplines que sont l’informatique graphique et l’analyse des interactions, le projet GUIDE se questionne sur **les similitudes et différences existantes dans l’appropriation d’un lieu selon qu’il s’agisse d’un lieu dans l’univers tangible ou dans un univers numérique**.*
 
+![Corpus GUIDE](project_Guide_corpus.png)
 
 ## Conception d’une maquette numérique du campus de Bron comme environnement d’expérimentation
 Une maquette numérique du campus de Bron est conçue afin de servir d’environnement numérique pour l’expérimentation sur l’orientation.
@@ -67,38 +68,20 @@ Des autorisations d'enregistrement seront distribuées et expliquées aux partic
 ##### Phase 1 : Expérimentation Monde Virtuel
 Dans le cadre de l’expérimentation via la maquette 3D numérique, la séance se déroule dans les locaux du laboratoire ICAR, à l’ENS, dans la salle d’écran DatAgora. 
 La simulation sera lancée sur le mur d’écran afin de permettre une plus grande immersion de permettre une collecte de données en présentiel facilitée. 
-L’emploi du temps sera donné en version papier 
-###### Dispositif d’enregistrement 
-Le dispositif d’enregistrement utilisé sera le suivant : 
-- Deux caméra trépied :
-  - face participants  + micro caméra (vue 1)
-  - dos participants + visualisation écran + micro caméra (vue 2)
-- Une prise de vue vidéo à partir de la caméra fixe de la barre de son + micro table  (vue 3)
-- Capture d’écran continue + micro intégré à l’ordinateur  (vue 4)
-- Enregistrement des traces numériques
+L’emploi du temps est donné en version papier.  
+La collecte de données se fait grâce au [dispositif de collecte de données fixes](/components/Collecte_donnees_fixes) mis en place. 
 
-![Dispositif d'enregistrement fixe](project_Guide_Dispositif-fixe.jpg)
-Dispositif d'enregistrement fixe
 
-Des masques de protection transparents réutilisables seront achetés afin de minimiser l’impact des masques (et l’absence de visualisation de la partie inférieure du visage) sur le corpus et a fortiori sur les analyses linguistiques. Ils seront aussi utilisés dans la phase 2 de l’expérimentation.  
+Des masques de protection transparents réutilisables sont utilisés afin de minimiser l’impact des masques (et l’absence de visualisation de la partie inférieure du visage) sur le corpus et a fortiori sur les analyses linguistiques. Ils seront aussi utilisés dans la phase 2 de l’expérimentation.  
 
 ##### Phase 2 : Expérimentation IRL
 Afin de pouvoir apporter une complémentarité aux enregistrements réalisés sur le mur d’écran, il sera mené une expérimentation similaire en situation réelle sur le campus Porte des Alpes de Bron. 
 Le même emploi du temps leur sera remis et ils devront, à la manière de la phase 1 de l’expérimentation, se déplacer à travers le campus et relier les différents points mentionnés. 
 
-Afin de limiter la présence d’autres étudiants, il est proposé que cette phase d’expérimentation se déroule un samedi (à confirmer si le campus est bien ouvert les samedis).
+Afin de limiter la présence d’autres étudiants, il est proposé que cette phase d’expérimentation se déroule un vendredi après-midi; quand la fréquentation du campus est plus réduite.
 
 Le binôme qui réalisera cette tâche sera un binôme 2bis (2 nouveaux participants néophytes) afin de comparer les comportements de « premier pas sur le campus » entre une expérience tangible et numérique. 
-##### Dispositif d’enregistrement mobile
-Le dispositif mobile mis en place est constitué 
-- d’une caméra 360 tenue par l’un des expérimentateurs
-- de deux micros-cravate positionnés sur les participants
-- d’un récepteur-enregistreur audio (Tascam) récoltant les entrées son des micros des participants. 
-
-Une trace GPS du parcours des participants sera aussi réalisée.
-
-![Dispositif d'enregistrement mobile](project_Guide_Dispositif_mobile.jpg)
-Dispositif d'enregistrement mobile
+La collecte de données se fait grâce au [dispositif de collecte de données mobiles](/components/Collecte_donnees_mobiles) mis en place. Une trace GPS du parcours des participants sera aussi réalisée.
 
 
 ### Traitement des données
@@ -127,50 +110,37 @@ Le corpus constitué lors de cette expérimentation comprend les enregistrements
 L’ensemble du corpus est disponible sur un disque dur copié sur le disque dur externe disponible au laboratoire LIRIS.
 Il est enrichi des transcriptions réalisées et des autorisations d’enregistrement scannées. 
 
+## Potentialités 
+### Applicatives
+#### A court terme :
+- analyse et étude fine du corpus recueilli
+- [maquette opérationnelle](https://deambulation-bron.vcityliris.data.alpha.grandlyon.com/) 
+#### A moyen terme :
+- étendre l’étude à un plus large panel
+- compléter la maquette (intérieur des bâtiments)
+- aller vers des outils
+  – de découverte du campus
+  – d’orientation sur campus
+  – de rencontre virtuelle des utilisateurs
+  – de gestion technique de patrimoine (risques,aménagements)
+
+##### A long terme
+- réplicabilité sur d’autres lieux
+### Scientifiques
+- Méthode hypothético-déductive sur les points de repère, les représentations et la perception utilisateur
+- Amélioration continue de la maquette à partir des analyses faites dans le monde réel (design based research)
+- Modèles conversationnels de “Personnage Non Joueur” (guide) donnant des instructions
+- Mise en place de dispositifs d’enregistrements permettant de comparer réel et numérique
 
 ## Valorisation
 
-[Présentation](DatAgora_Guide_presentation.pptx.pdf)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Présentation](project_Guide_presentation.pdf)
 
 ### Composants 
 **Créés dans le cadre du projet**
-- Bron wandering
-- Dispositif de collecte de données fixes
-- Dispositif de collecte de données mobiles
- 
-**Utilisés dans le cadre du projet**
-- Liste avec liens vers les pages composants
-- Format : Nom du composant
+- [Bron wandering](components/Bron_Wandering)
+- [Dispositif de collecte de données fixes](/components/Collecte_donnees_fixes)
+- [Dispositif de collecte de données mobiles](/components/Collecte_donnees_mobiles)
 
 ### Partenaires impliqués
-- Liste avec lien vers  la page projet du partenaire
-- Format : Projet XXX chez ZZZ
-### Références
-- Liste avec lien 
-- Format biblio 
-### Pour aller plus loin 
-- Liste avec lien 
-- Format : descriptif de la ressource
-- exemple : Autre utilisations des légos dans l'architecture 
-
-
+- [ICAR](http://icar.cnrs.fr/)

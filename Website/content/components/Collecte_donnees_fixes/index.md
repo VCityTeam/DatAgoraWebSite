@@ -8,29 +8,28 @@
 >*Short and accessible description.*
 
 
-![alt_text "Label"](Dispositif-fixe.jpg)
+
+![Dispositif d'enregistrement fixe](Dispositif-fixe.jpg)
+Schéma du dispositif d'enregistrement fixe
 
 ***
 
-Content
-Texte descriptif du composant Contexte, méthodologie, objectifs, résultats, …
+Le dispositif d’enregistrement est le suivant : 
+- Deux caméra trépied :
+  - face participants  + micro caméra (vue 1)
+  - dos participants + visualisation écran + micro caméra (vue 2)
+- Une prise de vue vidéo à partir de la caméra fixe de la barre de son + micro table  (vue 3)
+- Capture d’écran continue + micro intégré à l’ordinateur  (vue 4)
+- Enregistrement des traces numériques
 
 ***
 
 ### Projects
-- Liste des projets dans lesquels le composant a été utilisé
-- Par ordre chronologique (projet créant le composant en 1er)
-- Avec liens vers les pages projet
+- [ICAR](http://icar.cnrs.fr/)
+
 
 ### Involved partners
-- Liste avec lien vers  la page composants du partenaire
-- Format : Composant XXX chez ZZZ
-### References
-- Liste avec lien
-- Format biblio
-### To go deeper
-- Liste avec lien
-- Format : descriptif de la ressource
-- exemple : Autre utilisations des légos dans l'architecture
+- [ICAR](http://icar.cnrs.fr/)
+
 
 
