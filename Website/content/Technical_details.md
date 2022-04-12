@@ -30,7 +30,7 @@ During the first use of these modules we have prototyped different models by cha
 </p>
 
 ## Illustrations
-[Illustrations sources](Mockup_PartDieu.pdf)<br>
+<!-- [Illustrations sources](Mockup_PartDieu.pdf)<br> -->
 
 <p float="left">
 <img src="PartDieuModel/erasme-imu.png" width="500">
