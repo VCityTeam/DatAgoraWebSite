@@ -8,7 +8,7 @@ La Charte de l’arbre s’inscrit dans un contexte où 80% de la population fra
 
 Dans cette perspective, le Grand Lyon considère que le développement urbain doit désormais œuvrer pour une réconciliation entre la nature et la ville. Cette réconciliation est la condition inhérente à un développement urbain durable. Le patrimoine arboré est en effet une composante active de la ville offrant de nombreux bénéfices et services (climatisation de la ville, participation à la gestion de l’eau, dépollution de l’air et des sols, bienfaits sur le psychisme, etc.) dont il nous faut prendre conscience pour valoriser au mieux la place de la nature en ville et nous en faire une alliée.
 
-Pour aller plus loin : [https://www.grandlyon.com/fileadmin/user_upload/media/pdf/environnement/arbres/20111214_gl_chartearbre.pdf](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/environnement/arbres/20111214_gl_chartearbre.pdf)
+<!-- Pour aller plus loin : [https://www.grandlyon.com/fileadmin/user_upload/media/pdf/environnement/arbres/20111214_gl_chartearbre.pdf](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/environnement/arbres/20111214_gl_chartearbre.pdf) -->
 
 
 ***
