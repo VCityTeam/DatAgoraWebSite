@@ -29,9 +29,11 @@ Cette analyse réalisée auprès d’une trentaine de grandes villes montre l’
 
 L’étude est présentée dans deux versions : une version de synthèse qui permet de retenir rapidement les points marquants, et la version complète de l’étude qui permet d’approfondir cette découverte.
 
-Version de synthèse de l’étude:  [Synthese_canopee.pdf](https://blogs.grandlyon.com/developpementdurable/wp-content/blogs.dir/11/files/dlm_uploads/2019/06/etude_canopee_synthese1.pdf)
+Version de synthèse de l’étude:  [Synthese_canopee.pdf]()
+<!-- https://blogs.grandlyon.com/developpementdurable/wp-content/blogs.dir/11/files/dlm_uploads/2019/06/etude_canopee_synthese1.pdf -->
 
-Version complète de l’étude : [Etude_complète_canopee.pdf](https://blogs.grandlyon.com/developpementdurable/wp-content/blogs.dir/11/files/dlm_uploads/2019/06/etude_canopee.pdf)
+Version complète de l’étude : [Etude_complète_canopee.pdf]()
+<!-- https://blogs.grandlyon.com/developpementdurable/wp-content/blogs.dir/11/files/dlm_uploads/2019/06/etude_canopee.pdf -->
 
 
 Cela fait déjà quelques temps que le discours vert infuse à Lyon, qui est l'une des villes les plus polluées de France selon une étude de l'Organisation mondiale de la santé publiée en juillet 2019. L'année 2019 a été marquée par des épisodes caniculaires et nombreux pics de pollution, c'est pourquoi la végétalisation de la ville devient un des axes majeurs du programme des écologistes, qui remportent les municipales de 2020. 
