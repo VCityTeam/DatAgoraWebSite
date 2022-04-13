@@ -22,7 +22,6 @@
 
 | Couche | Disponibilité | Data | Intérêt |
 |:-:|:-:|:-:|:-:|
-| Métro| Open Source | [DataGrandLyon](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-transports-en-commun-lyonnais-1) | Objets urbains contraignants liés à l'implantation du métro (bouches d'aération, cables d'alimentation, réseau peu profond empêchant l'enracinement)
 | Canalisations| Données privées| Eau du Grand Lyon  | Ne permet pas un bon enracinement des arbres
 
 
