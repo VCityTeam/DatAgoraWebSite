@@ -31,7 +31,8 @@ This "interactive-model" project requires an equipement similar to one used by C
 This type of project can only work with physical models of limited size. Nevetheless the ability to draw on the surface and/or to take geometrical measures can be a valuable type of input to some numerical models...
 
 ### Augmented model : Participatory use of the augmented city
-As part of Anthropocene school, this workspace was propose by teachers and researchers in town planning, architecture, and communicatio. The aim was to reunited students of many discipline to bring a largest choice of proposal as for our link with campus or futur Learning Centre (see [this document](maquette_augmentee.pdf)).
+As part of Anthropocene school, this workspace was propose by teachers and researchers in town planning, architecture, and communicatio. The aim was to reunited students of many discipline to bring a largest choice of proposal as for our link with campus or futur Learning Centre .
+<!-- (see [this document](maquette_augmentee.pdf)) -->
 
 The workshop was plan with 6 multidisciplinary groups
 Interaction with new buildings to plan in it and be more familiar with it.
