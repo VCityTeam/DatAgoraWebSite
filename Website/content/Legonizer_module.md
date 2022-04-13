@@ -1,6 +1,6 @@
 # Legonizer
 
-This tool aims to provide all the necessary functions to convert a 3D object into a voxel model, and to provide customized building instructions to the user. The module is based on a school project you can find [here](https://github.com/antoinechedin/lego-city-counter) developped by Antoine CHEDIN & Rendy LATBI during the [GAMAGORA](https://icom.univ-lyon2.fr/gamagora) formation. The module is currently a small Unity project, that allows you, in a dedicated scene, to :
+This tool aims to provide all the necessary functions to convert a 3D object into a voxel model, and to provide customized building instructions to the user. The module is based on a school project you can find [here](https://github.com/antoinechedin/lego-city-counter) developped by Antoine CHEDIN & Rendy LATBI during the GAMAGORA formation. The module is currently a small Unity project, that allows you, in a dedicated scene, to :
 ## 1. Import a 3D model in the software : 
 You can import a custom 3D model of a city in Unity (in obj or fbx format for example), or parse one from data you have in another format (ex : JSON or GML). You can drag and drop this model in a scene where the analyzer is to proceed to the next step.
 

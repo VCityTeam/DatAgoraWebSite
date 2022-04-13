@@ -10,9 +10,6 @@ territoire du Grand Lyon ». https://blogs.grandlyon.com/developpementdurable/en
 
 * « Dart – Cesbio ». https://www.cesbio.cnrs.fr/dart/
 
-* « En ville, c’est bien de planter des arbres mais pas n’importe comment ». Reporterre, le
-quotidien de l’écologie. https://reporterre.net/En-ville-c-est-bien-de-planter-des-arbresmais-pas-n-importe-comment
-
 * « ERASME ». https://www.erasme.org/#erasme
 
 * « fonctions:accueil [Wiki du Master Géographies Numériques] ». `https://www.univ-stetienne.fr/wikimastersig/doku.php/fonctions:accueil` (lien cassé)
