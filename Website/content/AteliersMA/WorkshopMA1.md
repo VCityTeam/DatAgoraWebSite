@@ -8,7 +8,7 @@
 
  20 étudiants de l’Université de Lyon, issus des masters GEONUM, MUSE, VEU et de la formation GAMAGORA ont répondu présent pour ce workshop marathon de 4 jours.
 ![IMG_5192-1024x768](https://user-images.githubusercontent.com/6526012/163457548-cd42c033-ee80-45c3-86af-73ff0e99f5af.jpg)
-
+ SPL Confluence a mis à disposition la maquette de la presqu’ile durant les 4 jours
 
 ![IMG_5186-1024x768](https://user-images.githubusercontent.com/6526012/163457185-09f85f4b-765a-4a4b-af08-2d2998451ff8.jpg)
  De gauche à droite, Luis A.Pastor et Arnaud Grignard chercheurs au M.I.T. Medialab Citysciences
