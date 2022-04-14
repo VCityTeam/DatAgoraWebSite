@@ -12,3 +12,5 @@
 
 ![IMG_5186-1024x768](https://user-images.githubusercontent.com/6526012/163457185-09f85f4b-765a-4a4b-af08-2d2998451ff8.jpg)
  De gauche à droite, Luis A.Pastor et Arnaud Grignard chercheurs au M.I.T. Medialab Citysciences
+
+Plus d'informations sont disponibles [ici](https://imu.universite-lyon.fr/workshop-usages-participatifs-et-maquette-augmentee/)
