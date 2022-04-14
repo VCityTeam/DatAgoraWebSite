@@ -10,7 +10,8 @@ Un portrait inédit du quartier de la Part-Dieu à Lyon a été proposé en expl
   * La cachette des gones
   * Canopée suspendue
   * Dystopie végétale
-Un choix délibéré a été fait par les étudiants de proposer des dispositifs mettant moins en avant la maquette (qu’ils n’avaient pas réellement à disposition), mais de plus se saisir du territoire qu’ils avaient visité en tout début de semaine. Il est à noter une présence plus forte de la 3D (modélisation de l’espace en virtuel) et des photomontages.
+
+ Un choix délibéré a été fait par les étudiants de proposer des dispositifs mettant moins en avant la maquette (qu’ils n’avaient pas réellement à disposition), mais de plus se saisir du territoire qu’ils avaient visité en tout début de semaine. Il est à noter une présence plus forte de la 3D (modélisation de l’espace en virtuel) et des photomontages.
 
 
  * [Présentation de l'atelier](https://ecoleanthropocene.universite-lyon.fr/a-quoi-revent-les-maquettes--247850.kjsp?RH=1633680335198)
