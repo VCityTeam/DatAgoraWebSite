@@ -12,6 +12,16 @@ Il était aussi proposé de  préfigurer des dispositifs de réalité augmentée
  * Les données géographiques open source du portail de la Métropole de Lyon.
  * Un dispositif de vidéo projection et d’acquisition (via une caméra placée en zénital au dessus de la maquette) conçu et mis en place par Erasme et le LIRIS- Projet Vcity
 
+ Les 6 groupes constitués ont construit leur problématique et ont élaboré une preuve de concept en 4 jours :
+  * Groupe 1 : Paysage sonore du Learning center
+  * Groupe 2 : Maquette augmentée : entre réalité et virtualité
+  * Groupe 3 : Approche multi-temporelle de la végétalisation du campus de Porte des Alpes
+  * Groupe 4 : Bienvenue au Learning center, la visite dont vous êtes le héros
+  * Groupe 5 : Les mobilités et usages du Learning Center dans le campus Lyon 2 Porte des Alpes
+  * Groupe 6 : Learning center Lyon 2. Un campus en pleine évolution
+Au délà de ces concepts, il a été ainsi possible de tester l’utilisation de légo pour représenter les éléments, de travailler sur les interactions avec la maquette (via le dispositif caméra), mais aussi d’amener les étudiants à produire à modèle de simulation permettant de modéliser les déplacements, à l’intérieur et autour du bâtiment. Les étudiants ont aussi apporté de nouvelles formes d’utilisation en matérialisant physiquement un parcours autour de la maquette 
+
+
 
  * [Lien vers une description de l'atelier](https://imu.universite-lyon.fr/formation/retour-sur-latelier-usages-participatifs-et-maquette-augmentee/)
  * [Vidéo / interviews de l'atelier](https://www.youtube.com/watch?v=jZ4-V6UUQPU)
