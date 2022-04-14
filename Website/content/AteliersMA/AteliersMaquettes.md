@@ -3,3 +3,6 @@ Ils sont organisés par Julia Bonaccorci (Laboratoire ELICO, Université Lumièr
 Ces ateliers mêlent des étudiants de 4 formations (Master MUSE, Master Geonum, Master VEU et formations Gamagora).
 
  * Année 1 : Février 2019- [Atelier sur le quartier Confluence](WorkshopMA1.md)
+ * Année 2 : Janvier 2020- [Atelier sur le campus Portes des Alpes, Université Lumière Lyon 2](WorkshopMA2.md)
+ * Année 3 : Janvier 2021- [Atelier sur le quartier Part-Dieu](WorkshopMA3.md)
+ * Année 4 : Janvier 2022- [Atelier sur le quartier Gratte-Ciel](WorkshopMA4.md)
