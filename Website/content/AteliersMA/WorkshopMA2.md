@@ -4,12 +4,13 @@ Il était aussi proposé de  préfigurer des dispositifs de réalité augmentée
  * Méthodologique : gestion de projet ; documentation du processus et restitution
  * Thématique : enjeux sociopolitiques de mixité des publics d’un équipement culturel sur un territoire ; usages sociaux de la géovisualisation
  * Productif : itération entre les scénarios d’usages envisagés et le dispositif de la maquette (données, gamification…)
-Les étudiant.es disposaient des ressources suivantes :
-La maquette construite pour l’Exposition Learning from le Learning centre, Archipel, Place des Terreaux à Lyon, qu’ils avaientt visitée à lors de la première journée
- * Une maquette en Lego du Campus Porte des Alpes réalisée le LIRIS-Projet Vcity (photo xx et yy)
+
+ Les étudiant.es disposaient des ressources suivantes :
+ * La maquette construite pour l’Exposition Learning from le Learning centre, Archipel, Place des Terreaux à Lyon, qu’ils avaientt visitée à lors de la première journée
+ * Une maquette en Lego du Campus Porte des Alpes réalisée le LIRIS-Projet Vcity
  * Les fichiers numériques BIM du projet architectural
  * Les données géographiques open source du portail de la Métropole de Lyon.
- * Un dispositif de vidéo projection et d’acquisition (via une caméra placée en zénital au dessus de la maquette) conçu et mis en place par Erasme et le LIRIS- Projet Vcity (voir photo zz).
+ * Un dispositif de vidéo projection et d’acquisition (via une caméra placée en zénital au dessus de la maquette) conçu et mis en place par Erasme et le LIRIS- Projet Vcity
 
 
  * [Lien vers une description de l'atelier](https://imu.universite-lyon.fr/formation/retour-sur-latelier-usages-participatifs-et-maquette-augmentee/)
