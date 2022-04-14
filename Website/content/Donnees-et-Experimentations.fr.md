@@ -21,7 +21,7 @@ Un ensemble de projets a été instruit en ce sens.
 
 - La semaine de l'anthropocène est un évènement organisé depuis 4 ans par l’École urbaine de Lyon, en partenariat avec le LabEx Intelligences des Mondes Urbains qui rassemble des participants aux profils très divers autour de différentes activités (tables rondes, ateliers, expositions,...) qui traitent de l'impact de l'homme sur son environnement. Lors de cette semaine, un atelier mêlant étudiants, chercheurs et experts du territoire travaillent pendant plusieurs jours au sein d'un [atelier nommé "Maquette Augmentée"](AteliersMA/AteliersMaquettes.md).
 
-- Lien vers le [projet ECN VegetaLyon](vegetalyon/VegetaLyon)
+- Lien vers le [projet ECole Centrale de Nantes VegetaLyon](vegetalyon/VegetaLyon)
 
 ### Interactions 
 Abstract
