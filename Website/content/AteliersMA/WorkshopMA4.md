@@ -1,5 +1,16 @@
-Retour en vidéo sur l'Atelier de recherche-action "A quoi rêvent les maquettes" mené en janvier 2022 à la Maison du projet GCCV dans le cadre de la semaine "A l'Ecole de l'Anthropocène 2022" organisée par École Urbaine de Lyon et Université de Lyon.
+Pour l’édition 2022, l’objectif était de réfléchir à la thématique du métabolisme urbain avec, comme lieu d'expérimentation, le quartier Gratte-Ciel à Villeurbanne. Lors de cet atelier, des étudiants de l’Université de Lyon, issus des masters GEONUM, MUSE, VEU, GAMAGORA, ont été réunis à la Maison du projet Gratte-Ciel. 
 
-Les étudiants de plusieurs masters ont travaillé en pluridisciplinarité pendant 4 jours à la modélisation de données du projet sur le thème du métabolisme urbain: Logistique urbaine, matériaux de réemploi, flux de déchets...
+ Nous pouvons ainsi faire la synthèse des spécificités communes des différents ateliers :  la mise en action de la pluridisciplinarité, un terrain d’expérimentation (le quartier Gratte-Ciel Centre à Villeurbanne), un accompagnement par des experts (chercheurs, experts de la SERL et de collectivités), l’exploration de médiations territoriales par la visualisation de données et des maquettes augmentées afin de rendre tangibles et partageables des propositions simples et pratiques.
+ 
+## Projet Centre Ville Gratte Ciel
+ Le projet d’expansion Gratte-Ciel part du constat d’un centre-ville devenu trop petit pour ses 145 000 habitants. 1 800 nouveaux habitants dans le cadre de l’extension du centre-ville – le futur quartier Gratte-Ciel - va de pair avec la nécessité d’espaces publics généreux et apaisés. Ce projet vise à relier le quartier des Gratte-ciel au parc du Centre et sa cheminée, dans la continuité de l'avenue Henri-Barbusse. Il intègre la création de l'école primaire Rosa-Parks, d'un gymnase municipal, la démolition et la reconstruction du lycée Pierre-Brossolette, d'une crèche ainsi que la construction de 900 logements et de 21 000 m² de commerces, compris en huit îlots urbains. Le projet vise également à créer une rue piétonne en continuité de l'avenue Henri-Barbusse, ainsi que l'allongement de la rue Racine, ouvert aux flux automobiles. Il intègre également une place piétonne sur un axe Est-Ouest. Enfin, il permet l'élargissement de la rue Francis-de-Pressensé au nord.
+
+ * Groupe 1: Identité fonctionnelle et sentiment d’appartenance  Demo : Group_1
+ * Groupe 2: Quotidien et mobilité dans le quartier Gratte-Ciel : Demo: Group_2
+ * Groupe 3: Intègrer de la végétation dans le métabolisme urbain Demo: Group_3
+ * Groupe 4: Un système électrique décentralisé pour un quartier Gratte-Ciel plus autonome énergétiquement Demo: Group_4
+ * Groupe 5 : Réemploi au sein de la ZAC Gratte ciel : Demo: Group_5
+ * Groupe 6: Développer un nouveau modèle de logistique urbaine pour les centres urbains denses : Demo: Group_6
+
 
 [Lien vers une vidéo de présentation](https://www.youtube.com/watch?v=rco2e4YZI84)
