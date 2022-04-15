@@ -1,5 +1,6 @@
 ## Expérimentations
-DatAgora est aussi un lieu d'expérimentation autour de la donnée. Les expérimentations peuvent se faire en mobilisant des ressources internes ou par l'intermédiaire de groupes d'étudiants encadrés par l'équipe DatAgora.
+Le projet DatAgora a pour vocation à proposer des temps d'expérimentations. Ces temps peuvent mobiliser des personnels de la métropole ou d'entreprises (voir par exemple les REMIX du laboraotire des Usages de la métropole de Lyon), ou des étudiants en projet ou en stage. 
+
 Aujourd'hui, plusieurs projets ont été traités ou sont en cours d'instruction. Ces projets peuvent être thématiques et/ou techniques 
 
 ### Végétaliser la ville
@@ -19,12 +20,10 @@ Un ensemble de projets a été instruit en ce sens.
 
 - Lien vers le Canopée Remix : Le Canopée Remix est un évènement organisé par la métropole de Lyon du 10 au 13 novembre 2020 et qui a eu pour but de réfléchir à la création de plusieurs initiatives autour de la végétation en ville. Plus de 100 participants y ont collaborer pour proposer 8 prototypes de projets d'actions collectives, de sensibilisation et d'enseignement ou encore de gestion et d'entretien de la végétation.  
 
-- La semaine de l'anthropocène est un évènement organisé depuis 4 ans par l’École urbaine de Lyon, en partenariat avec le LabEx Intelligences des Mondes Urbains qui rassemble des participants aux profils très divers autour de différentes activités (tables rondes, ateliers, expositions,...) qui traitent de l'impact de l'homme sur son environnement. Lors de cette semaine, un atelier mêlant étudiants, chercheurs et experts du territoire travaillent pendant plusieurs jours au sein d'un [atelier nommé "Maquette Augmentée"](AteliersMA/AteliersMaquettes).
-
 - Lien vers le [projet ECole Centrale de Nantes VegetaLyon](vegetalyon/VegetaLyon)
 
-### Interactions 
-Abstract
-- Lien vers cahier des charges.
+### Ateliers lors de la semaine de l'anthropocène
+ La semaine de l'anthropocène est un évènement organisé depuis 4 ans par l’École urbaine de Lyon, en partenariat avec le LabEx Intelligences des Mondes Urbains qui rassemble des participants aux profils très divers autour de différentes activités (tables rondes, ateliers, expositions,...) qui traitent de l'impact de l'homme sur son environnement. Lors de cette semaine, un atelier mêlant étudiants, chercheurs et experts du territoire travaillent pendant plusieurs jours au sein d'un [atelier nommé "Maquette Augmentée"](AteliersMA/AteliersMaquettes).
+
 
  
