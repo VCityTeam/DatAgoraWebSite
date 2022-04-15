@@ -19,7 +19,7 @@ Un ensemble de projets a été instruit en ce sens.
 
 - Lien vers le Canopée Remix : Le Canopée Remix est un évènement organisé par la métropole de Lyon du 10 au 13 novembre 2020 et qui a eu pour but de réfléchir à la création de plusieurs initiatives autour de la végétation en ville. Plus de 100 participants y ont collaborer pour proposer 8 prototypes de projets d'actions collectives, de sensibilisation et d'enseignement ou encore de gestion et d'entretien de la végétation.  
 
-- La semaine de l'anthropocène est un évènement organisé depuis 4 ans par l’École urbaine de Lyon, en partenariat avec le LabEx Intelligences des Mondes Urbains qui rassemble des participants aux profils très divers autour de différentes activités (tables rondes, ateliers, expositions,...) qui traitent de l'impact de l'homme sur son environnement. Lors de cette semaine, un atelier mêlant étudiants, chercheurs et experts du territoire travaillent pendant plusieurs jours au sein d'un [atelier nommé "Maquette Augmentée"](AteliersMA/AteliersMaquettes.md).
+- La semaine de l'anthropocène est un évènement organisé depuis 4 ans par l’École urbaine de Lyon, en partenariat avec le LabEx Intelligences des Mondes Urbains qui rassemble des participants aux profils très divers autour de différentes activités (tables rondes, ateliers, expositions,...) qui traitent de l'impact de l'homme sur son environnement. Lors de cette semaine, un atelier mêlant étudiants, chercheurs et experts du territoire travaillent pendant plusieurs jours au sein d'un [atelier nommé "Maquette Augmentée"](AteliersMA/AteliersMaquettes).
 
 - Lien vers le [projet ECole Centrale de Nantes VegetaLyon](vegetalyon/VegetaLyon)
 
